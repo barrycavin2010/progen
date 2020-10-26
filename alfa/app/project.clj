@@ -2,10 +2,10 @@
   :dependencies
   [[org.clojure/clojure "1.10.1"]
    [org.clojure/clojurescript "1.10.597"]
-   [com.stuartsierra/component "0.4.0"]
+   [com.stuartsierra/component "1.0.0"]
 
    ;; html
-   [selmer "1.12.18"
+   [selmer "1.12.31"
     ;; :exclusions [commons-codec]
     ]
 
@@ -23,15 +23,15 @@
    ;; [lib-noir "0.9.9" :exclusions [commons-codec]]
    ;; [ring/ring-defaults "0.3.2" :exclusions [commons-codec]]
    ;; [ring "1.8.0" :exclusions [commons-codec]]
-   [com.taoensso/carmine "2.19.1" :exclusions [com.taoensso/encore]]
+   [com.taoensso/carmine "3.0.1" :exclusions [com.taoensso/encore]]
 
    ;; standard web utilities
    ;; [com.taoensso/timbre "4.10.0"]
    ;; [environ "1.1.0"]
 
    ;; file/formatting and development utilities
-   [org.clojure/tools.namespace "0.3.1"]
-   [dk.ative/docjure "1.13.0"]
+   [org.clojure/tools.namespace "1.0.0"]
+   [dk.ative/docjure "1.14.0"]
    [danlentz/clj-uuid "0.1.9"]
    [me.raynes/fs "1.4.6"]
    [prismatic/schema "1.1.12"]
