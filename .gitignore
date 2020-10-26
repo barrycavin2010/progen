@@ -23,3 +23,5 @@ alfa/app/.idea/*.xml
 *.xml
 *.xml
 *.iml
+alfa/app/.DS_Store
+/alfa/app/.DS_Store
