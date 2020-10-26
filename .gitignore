@@ -12,3 +12,14 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+/alfa/app/.idea
+/alfa/app/.idea/
+alfa/app/.idea/
+/alfa/app/.idea/*.iml
+alfa/app/.idea/*.iml
+alfa/app/.idea/*.xml
+*.iml
+*.xml
+*.xml
+*.xml
+*.iml
