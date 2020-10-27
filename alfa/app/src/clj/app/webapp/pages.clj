@@ -12,8 +12,8 @@
 
 (defn home [] (render-file (file "index") {}))
 
-(defn large [some-text]
+(defn large [content]
   "Html template producing static for the mobile version.
   It accepts the resources to be included into the html header."
   (render-file (file "desktop")
-               {:message some-text}))
+               content))

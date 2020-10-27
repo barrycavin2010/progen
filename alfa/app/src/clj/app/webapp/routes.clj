@@ -25,11 +25,11 @@
   [content]
   (routes
     (GET "/" req (page/home))
-    (GET "/desktop" req (page/large "A Message"))))
+    (GET "/desktop" req (page/large content))))
 
 (defn api-routes
   [content]
   (routes
     (GET "/api-test/:id" [id]
-      (nresp/edn {:text (str "This is a nice problem to have : " id)}))))
+      (nresp/edn content))))
 

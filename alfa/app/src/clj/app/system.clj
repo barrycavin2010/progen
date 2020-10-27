@@ -13,7 +13,8 @@
   (let [{:keys [server]}
         (config mode)]
     (component/system-map
-      :handler (http/make)
+      :content {:welcome-message "Welcome aboard!!"}
+      :handler (component/using (http/make) [:content])
       :server (component/using (immut/make server) [:handler])
       :mode mode)))
 

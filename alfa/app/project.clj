@@ -8,12 +8,9 @@
    [selmer "1.12.31" :exclusions [commons-codec]]
 
    ;; cljs
-   [reagent "0.10.0" :exclusions [org.clojure/tools.reader cljsjs/react]]
-   [re-frame "1.1.1" :exclusions [reagent cljsjs/react]]
+   [reagent "0.10.0" ]
+   [re-frame "1.1.1" ]
    [cljs-ajax "0.8.1" ]
-   [cljs-react-material-ui "0.2.50" ]
-   ;; :exclusions [cljsjs/react]
-   ;;[cljsjs/react-with-addons "15.1.0-0"]
 
    ;; basic web setup
    [compojure "1.6.2" :exclusions [commons-codec]]
@@ -59,7 +56,7 @@
    :builds
    [{:id           "desktop"
      :source-paths ["src/cljs"]
-     :compiler     {:main            alfa.core
+     :compiler     {:main            app.core
                     :output-dir      "resources/public/js/compiled/out-desktop"
                     :output-to       "resources/public/js/app-desktop.js"
                     :closure-defines {"goog.DEBUG" false}

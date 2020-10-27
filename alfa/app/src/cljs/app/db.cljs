@@ -1,3 +1,3 @@
-(ns alfa.db)
+(ns app.db)
 
 (def default-db {})

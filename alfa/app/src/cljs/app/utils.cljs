@@ -1,6 +1,7 @@
-(ns alfa.utils
-  (:require [ajax.edn :as edn]
-            [cljs.pprint :as pp]))
+(ns app.utils
+  (:require
+    [ajax.edn :as edn]
+    [cljs.pprint :as pp]))
 
 (defn by-id
   "Get element by id"
