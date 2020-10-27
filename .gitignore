@@ -25,3 +25,4 @@ alfa/app/.idea/*.xml
 *.iml
 alfa/app/.DS_Store
 /alfa/app/.DS_Store
+/alfa/app/resources/public/MathJax/

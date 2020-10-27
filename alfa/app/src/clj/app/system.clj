@@ -1,16 +1,29 @@
-(ns app.system
+(ns alfa.system
   (:require
     [com.stuartsierra.component :as component]
-    [app.config :refer [config]]
+    [alfa.config :refer [config]]
     [clojure.tools.namespace.repl :refer [refresh]]
-    [app.utils :refer :all]))
+    [alfa.utils :refer :all]
+    [alfa.grabber.component :as grabber]
+    [alfa.server :as immut]
+    [alfa.webapp.content :as content]
+    [alfa.libs :as libs]
+    [alfa.handler :as http]))
 
 (defn create-system
   "It creates a system, and return the system, but not started yet"
   [mode]
-  (let [{:keys []}
+  (let [{:keys [lib-source content-source content-target server video-target]}
         (config mode)]
     (component/system-map
+      :grabber (-> (grabber/make mode video-target)
+                   (component/using [:content-source :content-target :library]))
+      :library (libs/make lib-source)
+      :handler (component/using (http/make) [:content])
+      :content (component/using (content/make) [:grabber])
+      :server (component/using (immut/make server) [:handler])
+      :content-source content-source
+      :content-target content-target
       :mode mode)))
 
 (defonce system (atom nil))
@@ -47,4 +60,11 @@
   (start)
   @system)
 
-
+(comment
+  (defn reset
+    "Reset the system in REPL after changing some codes"
+    []
+    (stop)
+    (info "Wait 20 secs")
+    (Thread/sleep 15000)
+    (refresh :after 'alfa.system/go)))

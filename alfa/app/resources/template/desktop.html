@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="description" content="">
+   <meta name="author" content="Zenius Education">
+   <link rel="stylesheet" href="/vendors/css/normalize.css">
+   <link rel="stylesheet" href="/vendors/css/skeleton.css">
+   <link rel="stylesheet" href="/vendors/css/animate.css">
+
+   {% for c in css-res %}
+   <link rel="stylesheet" href="{{c}}">
+   {% endfor %}
+
+   {% for j in js-res %}
+   <script type="application/javascript" src="{{j}}"></script>
+   {% endfor %}
+
+   <title>Zenius Prestasi</title>
+</head>
+<body>
+<div id="apo"></div>
+<div id="app"></div>
+<script type="application/javascript" src="/js/app-desktop.js"></script>
+<script src="/js/dobject.js"></script>
+<!--
+ <script type="application/javascript" src="/js/app-desktop-test.js"></script>
+ -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
+<script>
+   alfa.core.init();
+</script>
+</html>

@@ -1,22 +1,23 @@
-# app
+# alfa
 
-A Clojure library designed to ... well, that part is up to you.
+A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
 
-## Usage
+## Development Mode
 
-FIXME
+### Run application:
 
-## License
+```
+lein clean
+lein figwheel dev
+```
 
-Copyright © 2020 FIXME
+Figwheel will automatically push cljs changes to the browser.
 
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
+Wait a bit, then browse to [http://localhost:3449](http://localhost:3449).
 
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+## Production Build
+
+```
+lein clean
+lein cljsbuild once min
+```
