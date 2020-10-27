@@ -10,21 +10,14 @@
    <link rel="stylesheet" href="/vendors/css/skeleton.css">
    <link rel="stylesheet" href="/vendors/css/animate.css">
 
-   {% for c in css-res %}
-   <link rel="stylesheet" href="{{c}}">
-   {% endfor %}
-
-   {% for j in js-res %}
-   <script type="application/javascript" src="{{j}}"></script>
-   {% endfor %}
-
-   <title>Zenius Prestasi</title>
+   <title>
+      {{ message }}
+   </title>
 </head>
 <body>
 <div id="apo"></div>
 <div id="app"></div>
 <script type="application/javascript" src="/js/app-desktop.js"></script>
-<script src="/js/dobject.js"></script>
 <!--
  <script type="application/javascript" src="/js/app-desktop-test.js"></script>
  -->
@@ -34,6 +27,6 @@
 <script type="text/javascript" src="/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 <script>
-   alfa.core.init();
+   app.core.init();
 </script>
 </html>

@@ -1,4 +1,4 @@
-(ns alfa.schema
+(ns app.schema
   (:require [schema.core :as s]))
 
 ;; Content schemas

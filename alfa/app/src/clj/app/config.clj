@@ -1,6 +1,6 @@
-(ns alfa.config
-  (:require [alfa.utils :refer :all]
-            [taoensso.timbre :as log]))
+(ns app.config
+  (:require
+    [app.utils :refer :all]))
 
 (defn config
   "Reading the config, either intra-project or extra-project"

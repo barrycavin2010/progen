@@ -1,9 +1,9 @@
-(ns alfa.server
+(ns app.server
   (:require
     [immutant.web :as web]
     [com.stuartsierra.component :as component]
     [ring.middleware.defaults :refer :all]
-    [alfa.utils :refer :all]
+    [app.utils :refer :all]
     [noir.cookies :as cook]
     [noir.session :as sess]
     [immutant.util :as log]))

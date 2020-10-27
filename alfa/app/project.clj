@@ -1,7 +1,7 @@
 (defproject app "0.1.0-SNAPSHOT"
   :dependencies
-  [[org.clojure/clojure "1.8.0"]
-   [org.clojure/clojurescript "1.9.93"]
+  [[org.clojure/clojure "1.10.1"]
+   [org.clojure/clojurescript "1.10.773"]
    [com.stuartsierra/component "1.0.0"]
 
    ;; html
@@ -11,7 +11,7 @@
    [reagent "0.10.0" :exclusions [org.clojure/tools.reader cljsjs/react]]
    [re-frame "1.1.1" :exclusions [reagent cljsjs/react]]
    [cljs-ajax "0.8.1" ]
-   ;; [cljs-react-material-ui "0.2.50" ]
+   [cljs-react-material-ui "0.2.50" ]
    ;; :exclusions [cljsjs/react]
    ;;[cljsjs/react-with-addons "15.1.0-0"]
 
@@ -46,8 +46,6 @@
 
   :resource-paths ["resources"]
 
-  :main alfa.core
-
   :repl-options {:init-ns user}
 
   :plugins [[lein-cljsbuild "1.1.8"]
@@ -68,7 +66,7 @@
                     :optimizations   :whitespace
                     :pretty-print    false}}
     {:id           "desktop-test"
-     :source-paths ["src/cljs" "test/cljs/alfa"]
+     :source-paths ["src/cljs" "test/cljs/app"]
      :compiler     {:main            alfa.runner
                     :output-to       "resources/public/js/app-desktop-test.js"
                     :optimizations   :whitespace}}]}
