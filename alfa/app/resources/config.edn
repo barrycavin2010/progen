@@ -1,3 +1,5 @@
-{:dev    {:server         {:port 4000
-                           :path "/"
-                           :host "localhost"}}}
+{:server {:port 4000
+          :path "/"
+          :host "localhost"}
+ :content {:source "resources/problem-templates/"
+           :max-view 300}}

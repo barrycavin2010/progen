@@ -7,22 +7,22 @@
 
 (defn start
   "Starting the viewer"
-  ([mode]
-   (->> (system/create-system mode)
+  ([soal-choice]
+   (->> (system/create-system soal-choice)
         (component/start-system)
         (reset! dev-system)))
-  ([] (start :dev)))
+  ([] (start nil)))
 
 (defn stop []
   (swap! dev-system component/stop-system))
 
 (defn restart
   []
-  (let [mode (get-in @dev-system [:mode])]
+  (let [soal-choice (get-in @dev-system [:soal-choice])]
     (stop)
     (print "Restarting the system in 2 seconds... ")
-    (Thread/sleep 500)
+    (Thread/sleep 100)
     (println "plus/minus 5 minutes.")
-    (Thread/sleep 500)
-    (start mode)))
+    (Thread/sleep 100)
+    (start soal-choice)))
 

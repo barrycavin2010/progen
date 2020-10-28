@@ -1,0 +1,5 @@
+{:no-options [3]
+ :answer-key ["A"]
+ :soal-type "single-selection"
+ :soal-domain "english"
+ :template-id "SomeUniqueUUID"}

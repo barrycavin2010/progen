@@ -3,29 +3,29 @@
     [com.stuartsierra.component :as component]
     [app.config :refer [config]]
     [clojure.tools.namespace.repl :refer [refresh]]
-    [app.content.component :as content]
+    [app.content.component :as cont]
     [app.utils :refer :all]
     [app.server :as immut]
     [app.handler :as http]))
 
 (defn create-system
   "It creates a system, and return the system, but not started yet"
-  [mode]
-  (let [{:keys [server]}
-        (config mode)]
+  [soal-choice]
+  (let [{:keys [server content]}
+        (config)]
     (component/system-map
-      :content (content/make)
+      :content (cont/make (assoc content :soal-choice soal-choice))
       :handler (component/using (http/make) [:content])
       :server (component/using (immut/make server) [:handler])
-      :mode mode)))
+      :soal-choice soal-choice)))
 
 (defonce system (atom nil))
 
 (defn init
   "Function to initiate the system"
-  ([] (init :dev))
-  ([mode]
-   (reset! system (create-system mode))))
+  ([] (init nil))
+  ([soal-choice]
+   (reset! system (create-system soal-choice))))
 
 (defn start
   "Function to start the system, that is starting all the components and resolving
