@@ -21,8 +21,8 @@
   (let [mode (get-in @dev-system [:mode])]
     (stop)
     (print "Restarting the system in 2 seconds... ")
-    (Thread/sleep 2000)
+    (Thread/sleep 500)
     (println "plus/minus 5 minutes.")
-    (Thread/sleep 1000)
+    (Thread/sleep 500)
     (start mode)))
 

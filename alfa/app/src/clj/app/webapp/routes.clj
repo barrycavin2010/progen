@@ -30,6 +30,6 @@
 (defn api-routes
   [content]
   (routes
-    (GET "/api-test/:id" [id]
-      (nresp/edn content))))
+    (GET "/get-content" req
+      (nresp/edn (get-in content [:soals])))))
 

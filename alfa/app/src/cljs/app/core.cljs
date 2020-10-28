@@ -2,6 +2,7 @@
   (:require
     [reagent.dom :as rdom]
     [re-frame.core :as re]
+    [app.ajax :as server]
     [app.events :as events]
     [app.views.main :as view]
     [app.utils :as u]))
@@ -22,7 +23,9 @@
     (rdom/render [view/main-page] root-el)))
 
 (defn init []
-  (re/dispatch-sync [::events/initialize-db])
+  (re/dispatch-sync [:event-initialize-db])
+  (re/dispatch [:event-set-main-panel :panel-waiter])
+  (server/get-initial-content)
   (dev-setup)
   (mount-root)
   (u/info "udah masuk"))

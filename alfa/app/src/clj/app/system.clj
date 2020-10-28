@@ -3,6 +3,7 @@
     [com.stuartsierra.component :as component]
     [app.config :refer [config]]
     [clojure.tools.namespace.repl :refer [refresh]]
+    [app.content.component :as content]
     [app.utils :refer :all]
     [app.server :as immut]
     [app.handler :as http]))
@@ -13,7 +14,7 @@
   (let [{:keys [server]}
         (config mode)]
     (component/system-map
-      :content {:welcome-message "Welcome aboard!!"}
+      :content (content/make)
       :handler (component/using (http/make) [:content])
       :server (component/using (immut/make server) [:handler])
       :mode mode)))

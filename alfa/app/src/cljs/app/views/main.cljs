@@ -2,6 +2,7 @@
   (:require
     [app.utils :as u]
     [re-frame.core :as re]
+    [app.views.soal :as soal]
     [app.subs :as subs]))
 
 (defn waiter-panel
@@ -20,7 +21,8 @@
   [main-panel]
   (fn [main-panel]
     (condp = main-panel
-      :waiter [waiter-panel]
+      :panel-waiter [waiter-panel]
+      :panel-soals [soal/soal-panel]
       [waiter-panel])))
 
 (defn footer []
@@ -31,7 +33,7 @@
 
 (defn body-controller
   []
-  (let [main-panel (re/subscribe [::subs/main-panel])]
+  (let [main-panel (re/subscribe [:subs-view-main-panel])]
     (fn []
       [show-main-panel @main-panel])))
 

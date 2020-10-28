@@ -17,9 +17,9 @@
 
 (defn generator
   [file-name]
-  (let [raw (slurp file-name)
+  (let [raw (slurp (str dir file-name))
         texts (mapv #(selmer/render raw %) (problem-one))
-        soals (map #(cs/split % #"===major-sepa===") texts)]
+        soals (vec (mapcat #(cs/split % #"===major-sepa===") texts))]
     soals))
 
 
