@@ -1,8 +1,12 @@
 (ns app.engines.register
-  (:require [app.generator.logic :as logic]))
+  (:require
+    [app.generator.cania.regis :as cania]
+    [app.generator.sabda.regis :as sabda]))
 
 (defn soal-map
-  "VERY IMPORTANT: basically a registration point when adding a generator"
+  "Register each folder"
   []
-  {"logic-1" {:gen-fn logic/one
-              :dir    "logic-1"}})
+  (vector (sabda/register)
+          (cania/register)))
+
+
