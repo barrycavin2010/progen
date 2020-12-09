@@ -1,12 +1,20 @@
-(ns app.content.engine
+(ns app.content.grabber
   (:require
     [selmer.parser :as selmer]
     [clojure.string :as cs]
     [me.raynes.fs :as fs]
     [app.utils :refer :all]))
 
-(defn load-problem
-  [])
+(defn grab
+  [source makers]
+  (for [maker makers]
+    (let [creator (:folder maker)
+          folder (str source creator "/")
+          problems (-> #(update % :file (fn [x] (str folder x)))
+                       (map (:problems maker)))]
+      {:nama     creator
+       :folder   folder
+       :problems (map #(assoc % :creator creator) problems)})))
 
 (comment
 
