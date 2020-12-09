@@ -10,22 +10,20 @@
 
 (defn create-system
   "It creates a system, and return the system, but not started yet"
-  [soal-choice]
+  []
   (let [{:keys [server content]}
         (config)]
     (component/system-map
-      :content (cont/make (assoc content :soal-choice soal-choice))
+      :content (cont/make content)
       :handler (component/using (http/make) [:content])
-      :server (component/using (immut/make server) [:handler])
-      :soal-choice soal-choice)))
+      :server (component/using (immut/make server) [:handler]))))
 
 (defonce system (atom nil))
 
 (defn init
   "Function to initiate the system"
-  ([] (init nil))
-  ([soal-choice]
-   (reset! system (create-system soal-choice))))
+  []
+  (reset! system (create-system)))
 
 (defn start
   "Function to start the system, that is starting all the components and resolving

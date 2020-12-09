@@ -1,4 +1,4 @@
-(ns app.engines.register
+(ns app.content.register
   (:require
     [app.generator.cania.regis :as cania]
     [app.generator.sabda.regis :as sabda]))

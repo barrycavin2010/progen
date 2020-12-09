@@ -1,10 +1,9 @@
-(ns app.engines.view
+(ns app.content.engine
   (:require
     [selmer.parser :as selmer]
     [clojure.string :as cs]
     [me.raynes.fs :as fs]
-    [app.utils :refer :all]
-    [app.engines.register :as reg]))
+    [app.utils :refer :all]))
 
 (defn load-problem
   [])
