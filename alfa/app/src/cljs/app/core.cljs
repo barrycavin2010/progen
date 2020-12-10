@@ -30,3 +30,5 @@
   (mount-root)
   (u/info "udah masuk"))
 
+(init)
+

@@ -60,7 +60,7 @@
                     :output-dir      "resources/public/js/compiled/out-desktop"
                     :output-to       "resources/public/js/app-desktop.js"
                     :closure-defines {"goog.DEBUG" false}
-                    :optimizations   :whitespace
+                    :optimizations   :advanced
                     :pretty-print    false}}
     {:id           "desktop-test"
      :source-paths ["src/cljs" "test/cljs/app"]
