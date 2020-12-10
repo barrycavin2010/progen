@@ -19,9 +19,10 @@
                 [:h4 (str "Soal : " nomer)]
                 [:h6 {:dangerouslySetInnerHTML
                       {:__html (:soal-text soal)}}]
-                (into [:ol]
-                      (for [[k v] (:options soal)]
-                        [:li v]))
+                (into [:div]
+                      (for [[k v] (map #(do [%1 %2]) ["A" "B" "C" "D" "E" "F"] (map second (:options soal)))]
+                        [:div (str k ". ") v]))
+                [:br]
                 [:h5 (str "Pembahasan : ")]
                 [:h6 {:dangerouslySetInnerHTML
                       {:__html bahas}}]]))])))

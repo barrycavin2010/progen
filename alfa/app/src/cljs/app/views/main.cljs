@@ -41,9 +41,12 @@
 
 (defn header
   []
-  (fn []
-    [:center
-     [:h1 "Cupu"]]))
+  (let [title (re/subscribe [:subs-view-main-panel])]
+    (fn []
+      [:center [:h2 (condp = @title
+                      :panel-templates "Available templates"
+                      :panel-problems "Available problems for this template"
+                      "Great problem generator")]])))
 
 (defn main-page
   []
