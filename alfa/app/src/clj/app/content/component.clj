@@ -12,12 +12,12 @@
   (start [this]
     (let [all-makers (regis/soal-map)
           problems (grab-produce source all-makers)
-          problem-vec (vec (vals problems))]
-      (pres problem-vec)
-      (assoc this :problems problem-vec
+          templates (mapv :meta (vals problems))]
+      (pres problems)
+      (assoc this :templates templates
                   :problem-map problems)))
   (stop [this]
-    (dissoc this :problems)))
+    (dissoc this :problems :problem-map)))
 
 (defn make [content-config]
   (map->Content content-config))

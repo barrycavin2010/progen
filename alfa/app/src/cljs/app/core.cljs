@@ -25,7 +25,7 @@
 (defn init []
   (re/dispatch-sync [:event-initialize-db])
   (re/dispatch [:event-set-main-panel :panel-waiter])
-  (server/get-initial-content)
+  (server/get-templates)
   (dev-setup)
   (mount-root)
   (u/info "udah masuk"))

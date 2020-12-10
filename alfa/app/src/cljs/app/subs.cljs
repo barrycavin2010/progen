@@ -7,9 +7,14 @@
     (:view-main-panel db)))
 
 (re/reg-sub
-  :subs-data-soals
+  :subs-data-templates
   (fn [db]
-    (:data-soals db)))
+    (:data-templates db)))
+
+(re/reg-sub
+  :subs-data-problems
+  (fn [db]
+    (:data-problems db)))
 
 
 

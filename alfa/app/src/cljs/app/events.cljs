@@ -11,12 +11,19 @@
   :event-initialize-db
   (fn [_ _] db/default-db))
 
-(def set-soals
+(def set-templates
   (fn [db [_ data]]
-    (re/dispatch [:event-set-main-panel :panel-soals])
-    (assoc db :data-soals data)))
+    (re/dispatch [:event-set-main-panel :panel-templates])
+    (assoc db :data-templates data)))
 
-(re/reg-event-db :event-set-soals set-soals)
+(re/reg-event-db :event-set-templates set-templates)
+
+(def set-problems
+  (fn [db [_ data]]
+    (re/dispatch [:event-set-main-panel :panel-problems])
+    (assoc db :data-problems data)))
+
+(re/reg-event-db :event-set-problems set-problems)
 
 (def set-main-panel
   (fn [db [_ main-panel]]

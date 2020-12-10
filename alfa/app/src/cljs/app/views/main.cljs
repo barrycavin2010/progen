@@ -2,7 +2,8 @@
   (:require
     [app.utils :as u]
     [re-frame.core :as re]
-    [app.views.soal :as soal]
+    [app.views.template :as template]
+    [app.views.problem :as problem]
     [app.subs :as subs]))
 
 (defn waiter-panel
@@ -22,7 +23,8 @@
   (fn [main-panel]
     (condp = main-panel
       :panel-waiter [waiter-panel]
-      :panel-soals [soal/soal-panel]
+      :panel-templates [template/template-panel]
+      :panel-problems [problem/problem-panel]
       [waiter-panel])))
 
 (defn footer []
