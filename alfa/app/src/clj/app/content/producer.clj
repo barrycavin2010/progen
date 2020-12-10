@@ -22,7 +22,7 @@
   (let [[anskey text] (cs/split option #"::")]
     [(edn/read-string anskey) text]))
 
-(defn process-one-soal
+(defn- process-one-soal
   [soal-string]
   (let [[text options] (cs/split soal-string #"==options==")
         the-options (cs/split options #"==")]
