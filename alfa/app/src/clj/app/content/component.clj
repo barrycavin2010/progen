@@ -13,7 +13,6 @@
     (let [all-makers (regis/soal-map)
           problems (grab-produce source all-makers)
           templates (mapv :meta (vals problems))]
-      (pres problems)
       (assoc this :templates templates
                   :problem-map problems)))
   (stop [this]

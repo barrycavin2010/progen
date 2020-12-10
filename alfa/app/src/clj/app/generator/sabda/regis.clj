@@ -7,4 +7,7 @@
   {:folder   "sabda"
    :problems [{:problem-name "logic-01"
                :file   "logic-01.html"
-               :gen-fn app.generator.sabda.logic/logic-01}]})
+               :gen-fn app.generator.sabda.logic/logic-01}
+              {:problem-name "math-01"
+               :file   "math-01.html"
+               :gen-fn app.generator.sabda.logic/math-01}]})
