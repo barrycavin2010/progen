@@ -1,8 +1,8 @@
 (ns app.content.grabber
   (:require
-    [selmer.parser :as selmer]
+    [clojure.edn :as edn]
     [clojure.string :as cs]
-    [me.raynes.fs :as fs]
+    [app.content.producer :as producer]
     [app.utils :refer :all]))
 
 (defn grab
@@ -15,6 +15,17 @@
       {:nama     creator
        :folder   folder
        :problems (map #(assoc % :creator creator) problems)})))
+
+(defn produce
+  [{:keys [file gen-fn]}]
+  (let [raw (-> (slurp file)
+                (cs/replace #"\n" ""))
+        [meta soal bahas] (cs/split raw #"==sepa==")
+        data {:meta    (edn/read-string meta)
+              :soal    soal
+              :bahasan bahas
+              :gen-fn  gen-fn}]
+    (merge data (producer/gen-inject data))))
 
 (comment
 

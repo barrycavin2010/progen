@@ -18,14 +18,13 @@
                 :file   "logic-01.html"
                 :gen-fn app.generator.sabda.logic/logic-01}]}])
 
+(declare grab-produce)
+
 (defrecord Content [source]
   component/Lifecycle
   (start [this]
     (let [all-makers (regis/soal-map)
-          all-data (grabber/grab source all-makers)
-          problems (->> (map :problems all-data)
-                        (apply concat)
-                        vec)]
+          problems (grab-produce source all-makers)]
       (pres problems)
       (assoc this :problems problems)))
   (stop [this]
@@ -33,6 +32,16 @@
 
 (defn make [content-config]
   (map->Content content-config))
+
+(defn grab-produce
+  "Grabbing problems based on source & registered problems"
+  [source all-makers]
+  (let [reference (->> (grabber/grab source all-makers)
+                       (map :problems)
+                       (apply concat)
+                       vec)]
+    {:list reference
+     :data (mapv grabber/produce reference)}))
 
 
 
