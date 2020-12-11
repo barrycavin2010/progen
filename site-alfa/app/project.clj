@@ -37,6 +37,9 @@
   :injections [(require 'pjstadig.humane-test-output)
                (pjstadig.humane-test-output/activate!)]
 
+  :uberjar-name "appstore.jar"
+  :jar-name "app.jar"
+
   :min-lein-version "2.5.3"
 
   :source-paths ["src/clj" "dev"]
