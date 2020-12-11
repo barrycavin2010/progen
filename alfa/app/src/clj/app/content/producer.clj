@@ -25,6 +25,6 @@
 (defn- process-one-soal
   [soal-string]
   (let [[text options] (cs/split soal-string #"==options==")
-        the-options (cs/split options #"==")]
+        the-options (shuffle (cs/split options #"=="))]
     {:soal-text text
      :options   (mapv process-one-option the-options)}))
