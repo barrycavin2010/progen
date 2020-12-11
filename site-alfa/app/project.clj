@@ -1,4 +1,4 @@
-(defproject app "0.1.0-SNAPSHOT"
+(defproject app "0.1.0"
   :dependencies
   [[org.clojure/clojure "1.10.1"]
    [org.clojure/clojurescript "1.10.773"]
@@ -42,7 +42,7 @@
   :source-paths ["src/clj" "dev"]
 
   :resource-paths ["resources"]
-
+  :main app.core
   :repl-options {:init-ns user}
 
   :plugins [[lein-cljsbuild "1.1.8"]
