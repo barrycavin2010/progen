@@ -33,5 +33,6 @@
    :response-format (edn/edn-response-format)
    :method          method})
 
-(defn re-render-mathjax []
-  (js/MathJax.Hub.Queue (array "Typeset" js/MathJax.Hub)))
+(comment
+  (defn re-render-mathjax []
+    (js/MathJax.Hub.Queue (array "Typeset" js/MathJax.Hub))))

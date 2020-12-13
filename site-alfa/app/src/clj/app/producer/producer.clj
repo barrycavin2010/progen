@@ -1,4 +1,4 @@
-(ns app.content.producer
+(ns app.producer.producer
   (:require
     [selmer.parser :as selmer]
     [clojure.string :as cs]

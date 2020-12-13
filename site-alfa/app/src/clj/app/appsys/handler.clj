@@ -1,17 +1,17 @@
-(ns app.handler
+(ns app.appsys.handler
   (:require
     [compojure.core :refer [GET POST context routes]]
     [compojure.route :refer [resources files not-found]]
     [com.stuartsierra.component :as component]
     [ring.util.response :as resp]
     [app.utils :refer :all]
-    [app.webapp.routes :refer :all]
+    [app.viewer.routes :refer :all]
     [me.raynes.fs :as fs]))
 
-(defrecord Handler [content]
+(defrecord Handler [producer]
   component/Lifecycle
   (start [this]
-    (assoc this :routes (main-routes content)))
+    (assoc this :routes (main-routes producer)))
   (stop [this]
     this))
 

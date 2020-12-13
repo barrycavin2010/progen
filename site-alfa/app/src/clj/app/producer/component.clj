@@ -1,13 +1,13 @@
-(ns app.content.component
+(ns app.producer.component
   (:require
     [com.stuartsierra.component :as component]
-    [app.content.register :as regis]
-    [app.content.grabber :as grabber]
+    [app.producer.register :as regis]
+    [app.producer.grabber :as grabber]
     [app.utils :refer :all]))
 
 (declare grab-produce)
 
-(defrecord Content [source]
+(defrecord Producer [source]
   component/Lifecycle
   (start [this]
     (let [all-makers (regis/soal-map)
@@ -19,7 +19,7 @@
     (dissoc this :problems :problem-map)))
 
 (defn make [content-config]
-  (map->Content content-config))
+  (map->Producer content-config))
 
 (defn grab-produce
   "Grabbing problems based on source & registered problems"

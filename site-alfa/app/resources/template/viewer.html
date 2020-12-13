@@ -10,18 +10,23 @@
    <link rel="stylesheet" href="/vendors/css/skeleton.css">
    <link rel="stylesheet" href="/vendors/css/animate.css">
 
-   {% for c in css-res %}
-   <link rel="stylesheet" href="{{c}}">
-   {% endfor %}
-
-   {% for j in js-res %}
-   <script type="application/javascript" src="{{j}}"></script>
-   {% endfor %}
-   <title>Zenius Prestasi</title>
+   <title>
+      Testing parameter
+   </title>
 </head>
 <body>
 <div id="app"></div>
-<script type="application/javascript" src="/js/app-mobile.js"></script>
-<script type="application/javascript" src="/vendors/mathjax/mathjax.js?config=default"></script>
+<script type="application/javascript" src="/js/viewer.js"></script>
+<!--
+ <script type="application/javascript" src="/js/app-desktop-test.js"></script>
+ app.core.init();
+ <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+ -->
 </body>
+<script>
+
+</script>
 </html>

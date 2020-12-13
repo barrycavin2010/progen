@@ -1,4 +1,4 @@
-(ns app.webapp.pages
+(ns app.viewer.pages
   (:require
     [clojure.pprint :refer [pprint]]
     [selmer.parser :as selmer :refer [render-file]]
@@ -12,8 +12,8 @@
 
 (defn home [] (render-file (file "index") {}))
 
-(defn large [content]
+(defn viewer [producer]
   "Html template producing static for the mobile version.
   It accepts the resources to be included into the html header."
-  (render-file (file "desktop")
-               content))
+  (render-file (file "viewer")
+               producer))

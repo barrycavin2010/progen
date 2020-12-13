@@ -28,7 +28,7 @@
   (server/get-templates)
   (dev-setup)
   (mount-root)
-  (u/info "udah masuk"))
+  (u/info "udah masuk kemari"))
 
 (init)
 

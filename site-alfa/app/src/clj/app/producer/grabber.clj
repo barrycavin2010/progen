@@ -1,8 +1,8 @@
-(ns app.content.grabber
+(ns app.producer.grabber
   (:require
     [clojure.edn :as edn]
     [clojure.string :as cs]
-    [app.content.producer :as producer]
+    [app.producer.producer :as producer]
     [app.utils :refer :all]))
 
 (defn grab

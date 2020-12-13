@@ -24,9 +24,12 @@
    ;; standard web utilities
    [com.taoensso/timbre "5.1.0"]
    [environ "1.2.0"]
+   [com.taoensso/carmine "3.1.0"]
+   ;; [com.apa512/rethinkdb "0.15.26"]
 
    ;; file/formatting and development utilities
    [org.clojure/tools.namespace "1.0.0"]
+
    [dk.ative/docjure "1.14.0"]
    [danlentz/clj-uuid "0.1.9"]
    [me.raynes/fs "1.4.6"]
@@ -57,11 +60,19 @@
                     "resources/public/js/app-desktop-test.js"
                     "http://localhost:4000"]}
    :builds
-   [{:id           "desktop"
-     :source-paths ["src/cljs"]
+   [{:id           "viewer"
+     :source-paths ["src/viewer"]
      :compiler     {:main            app.core
-                    :output-dir      "resources/public/js/compiled/out-desktop"
-                    :output-to       "resources/public/js/app-desktop.js"
+                    :output-dir      "resources/public/js/compiled/out-viewer"
+                    :output-to       "resources/public/js/viewer.js"
+                    :closure-defines {"goog.DEBUG" false}
+                    :optimizations   :advanced
+                    :pretty-print    false}}
+    {:id           "site"
+     :source-paths ["src/site"]
+     :compiler     {:main            app.core
+                    :output-dir      "resources/public/js/compiled/out-site"
+                    :output-to       "resources/public/js/site.js"
                     :closure-defines {"goog.DEBUG" false}
                     :optimizations   :advanced
                     :pretty-print    false}}

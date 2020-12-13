@@ -27,3 +27,4 @@ alfa/app/.DS_Store
 /alfa/app/.DS_Store
 /alfa/app/resources/public/MathJax/
 /alfa/app/react-app/app/node_modules/
+/site-alfa/rethinkdb_data/*

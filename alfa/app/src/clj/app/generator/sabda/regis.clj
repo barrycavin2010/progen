@@ -1,4 +1,7 @@
-(ns app.generator.sabda.regis)
+(ns app.generator.sabda.regis
+  (:require [app.generator.sabda.logic :as logic]
+            [app.generator.sabda.arit :as arit]
+            [app.generator.sabda.grammar :as grammar]))
 
 (defn register
   "The name of the keyword must reflects the name of the html file"

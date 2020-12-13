@@ -57,8 +57,8 @@
    [{:id           "desktop"
      :source-paths ["src/cljs"]
      :compiler     {:main            app.core
-                    :output-dir      "resources/public/js/compiled/out-desktop"
-                    :output-to       "resources/public/js/app-desktop.js"
+                    :output-dir      "resources/public/js/compiled/out-viewer"
+                    :output-to       "resources/public/js/viewer.js"
                     :closure-defines {"goog.DEBUG" false}
                     :optimizations   :advanced
                     :pretty-print    false}}

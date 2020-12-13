@@ -1,12 +1,12 @@
-(ns app.system
+(ns app.appsys.system
   (:require
     [com.stuartsierra.component :as component]
-    [app.config :refer [config]]
+    [app.appsys.config :refer [config]]
     [clojure.tools.namespace.repl :refer [refresh]]
-    [app.content.component :as cont]
+    [app.producer.component :as cont]
     [app.utils :refer :all]
-    [app.server :as immut]
-    [app.handler :as http]))
+    [app.appsys.server :as immut]
+    [app.appsys.handler :as http]))
 
 (defn create-system
   "It creates a system, and return the system, but not started yet"
@@ -14,8 +14,8 @@
   (let [{:keys [server content]}
         (config)]
     (component/system-map
-      :content (cont/make content)
-      :handler (component/using (http/make) [:content])
+      :producer (cont/make content)
+      :handler (component/using (http/make) [:producer])
       :server (component/using (immut/make server) [:handler]))))
 
 (defonce system (atom nil))
