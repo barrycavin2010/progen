@@ -10,6 +10,5 @@
   [filename]
   (str "template/" filename ".html"))
 
-(defn site [producer]
-  (render-file (file "site")
-               producer))
+(defn site [dbase]
+  (render-file (file "site") dbase))

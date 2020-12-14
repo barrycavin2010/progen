@@ -1,4 +1,4 @@
-(ns app.appsys.server
+(ns app.viewersys.server
   (:require
     [immutant.web :as web]
     [com.stuartsierra.component :as component]

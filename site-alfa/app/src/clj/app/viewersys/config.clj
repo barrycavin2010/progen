@@ -1,4 +1,4 @@
-(ns app.appsys.config
+(ns app.viewersys.config
   (:require
     [app.utils :refer :all]))
 

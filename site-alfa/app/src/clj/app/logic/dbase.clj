@@ -3,9 +3,11 @@
     [com.stuartsierra.component :as component]
     [app.utils :refer :all]))
 
-(defrecord Dbase [source]
+(defrecord Dbase [source redis]
   component/Lifecycle
-  (start [this] this)
+  (start [this]
+    (println "Dbase component started")
+    (assoc this :templates {:pesan "Amitabacan"}))
   (stop [this] this))
 
 (defn make [db-config]
