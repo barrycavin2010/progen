@@ -13,6 +13,15 @@
               {:problem-name "arit-01"
                :file   "arit-01.html"
                :gen-fn app.generator.sabda.arit/arit-01}
+              {:problem-name "arit-02"
+               :file   "arit-02.html"
+               :gen-fn app.generator.sabda.arit/arit-02}
+              {:problem-name "arit-03"
+               :file   "arit-03.html"
+               :gen-fn app.generator.sabda.arit/arit-03}
+              {:problem-name "arit-03"
+               :file   "arit-04.html"
+               :gen-fn app.generator.sabda.arit/arit-04}
               {:problem-name "grammar-01"
                :file   "grammar-01.html"
                :gen-fn app.generator.sabda.grammar/grammar-01}]})

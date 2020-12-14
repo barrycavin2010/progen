@@ -9,7 +9,10 @@
 
 (defonce conn {:pool {} :spec {}})
 
-
+(def tables
+  {:content-refs [:soal-mat :soal-logic :soal-english]
+   :content-data [:soal-mat :soal-logic :soal-english]
+   :user [:user-data :user-soal-mat :user-soal-logic :user-soal-english]})
 
 (def more-soals
   (for [level (range 1000)
