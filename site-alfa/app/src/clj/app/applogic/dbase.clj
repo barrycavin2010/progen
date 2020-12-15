@@ -1,4 +1,4 @@
-(ns app.logic.dbase
+(ns app.applogic.dbase
   (:require
     [com.stuartsierra.component :as component]
     [app.utils :refer :all]))

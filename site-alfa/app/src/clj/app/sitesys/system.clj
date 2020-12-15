@@ -3,7 +3,7 @@
     [com.stuartsierra.component :as component]
     [app.sitesys.config :refer [config]]
     [clojure.tools.namespace.repl :refer [refresh]]
-    [app.logic.dbase :as db]
+    [app.applogic.dbase :as db]
     [app.utils :refer :all]
     [app.sitesys.server :as immut]
     [app.sitesys.handler :as http]))
