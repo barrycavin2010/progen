@@ -29,7 +29,7 @@
                                  :template-logic {}
                                  :data-math {}
                                  :data-english {}
-                                 :data-logic}
+                                 :data-logic {}}
                        :user {:profile {}
                               :stat-math {}
                               :stat-logic {}
@@ -42,7 +42,7 @@
                               :template-logic {}
                               :data-math {}
                               :data-english {}
-                              :data-logic}})))
+                              :data-logic {}}})))
 
 
 

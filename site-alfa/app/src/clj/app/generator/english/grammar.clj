@@ -1,4 +1,4 @@
-(ns app.generator.sabda.grammar
+(ns app.generator.english.grammar
   (:require [clojure.set :as cset]))
 
 (defn male-subjects
@@ -15,12 +15,6 @@
    :third-plural ["they" "them" "their" "theirs"]
    :thing        ["it" "it" "its" "its"]})
 
-(defn transitives
-  [])
-
-(defn intransitives
-  [])
-
 (defn grammar-01
   []
   (let [k1s ["the morning flight" "the morning train" "the early bus"]
@@ -34,5 +28,6 @@
            :pb "us" :p1 "him" :p2 "them" :p3 "me"}
           {:k1 k1 :k2 k2 :pro pro :s1 s1 :s2 (rand-nth (vec (cset/difference (set s1s) #{s1})))
            :pb "them" :p1 "him" :p2 "us" :p3 "he"})))))
+
 
 

@@ -1,12 +1,12 @@
 (ns app.producer.register
   (:require
-    [app.generator.cania.regis :as cania]
-    [app.generator.sabda.regis :as sabda]))
+    [app.generator.logic.regis :as logic]
+    [app.generator.english.regis :as english]
+    [app.generator.math.regis :as math]))
 
 (defn soal-map
   "Register each folder"
   []
-  (vector (sabda/register)
-          (cania/register)))
+  (concat logic/register english/register math/register))
 
 

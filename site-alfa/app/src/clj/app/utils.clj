@@ -104,6 +104,10 @@
   [fname data]
   (->> data pprint with-out-str (spit fname)))
 
+(defn cstr
+  [data]
+  (with-out-str (pprint data)))
+
 (defn collect-error
   [coder]
   (swap! perpetrators conj coder)

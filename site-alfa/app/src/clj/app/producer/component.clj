@@ -10,13 +10,11 @@
 (defrecord Producer [source]
   component/Lifecycle
   (start [this]
-    (let [all-makers (regis/soal-map)
-          problems (grab-produce source all-makers)
-          templates (mapv :meta (vals problems))]
-      (assoc this :templates templates
-                  :problem-map problems)))
+    (let [all-data (regis/soal-map)
+          problems (grab-produce source all-data)]
+      (assoc this :problems problems)))
   (stop [this]
-    (dissoc this :problems :problem-map)))
+    (dissoc this :problems)))
 
 (defn make [content-config]
   (map->Producer content-config))

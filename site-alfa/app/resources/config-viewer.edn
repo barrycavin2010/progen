@@ -1,4 +1,5 @@
 {:server {:port 4000
           :path "/"
           :host "localhost"}
- :content {:source "resources/problems/"}}
+ :content {:source "resources/problems/"
+           :target "resources/results/"}}
