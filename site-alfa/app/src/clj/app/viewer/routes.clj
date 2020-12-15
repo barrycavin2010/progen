@@ -34,5 +34,6 @@
     (GET "/get-templates" req
       (nresp/edn (get-in producer [:templates])))
     (GET "/get-problems-by-id/:template-id" [template-id]
-      (nresp/edn (get-in producer [:problem-map template-id])))))
+      (let [dor (get-in producer [:problem-map template-id])]
+        (nresp/edn dor)))))
 

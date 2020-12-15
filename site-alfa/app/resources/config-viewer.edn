@@ -2,4 +2,4 @@
           :path "/"
           :host "localhost"}
  :content {:source "resources/problems/"
-           :target "resources/results/"}}
+           :target "resources/content/"}}

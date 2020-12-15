@@ -8,7 +8,7 @@
   []
   (fn []
     (let [problems (re/subscribe [:subs-data-problems])
-          countprobs (fn [] (js/console.log (count @problems)))]
+          countprobs (fn [] (js/console.log @problems))]
       (js/setTimeout #(countprobs) 3000)
       [:div.container
        [:button {:on-click #(re/dispatch [:event-set-main-panel :panel-templates])}
@@ -16,7 +16,7 @@
        (into [:div.row]
              (for [{:keys [nomer soal bahas]}
                    (-> #(assoc %2 :nomer (inc %1))
-                       (map-indexed (:soal-bahasans @problems))
+                       (map-indexed @problems)
                        reverse)]
                [:div
                 [:h4 (str "Soal : " nomer)]

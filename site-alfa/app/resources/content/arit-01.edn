@@ -1,0 +1,178 @@
+{:file "resources/problems/math/arit-01.html",
+ :filename "arit-01.html",
+ :meta
+ {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+  :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+  :generated? true,
+  :topic "math"},
+ :problems
+ [{:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    ___ + 32 = 71 <br>\n</p>\n\n",
+    :options
+    [[false "41" 0]
+     [true "39 " 1]
+     [false "37 " 2]
+     [false "40 " 3]
+     [false "36 " 4]],
+    :jawaban "B"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 39 + 32 = 71 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db703f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    40 + 38 = ___ <br>\n</p>\n\n",
+    :options
+    [[false "80 " 0]
+     [false "79 " 1]
+     [false "75" 2]
+     [false "77 " 3]
+     [true "78 " 4]],
+    :jawaban "E"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 40 + 38 = 78 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db713f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    ___ + 41 = 85 <br>\n</p>\n\n",
+    :options
+    [[false "41 " 0]
+     [true "44 " 1]
+     [false "46 " 2]
+     [false "42 " 3]
+     [false "45" 4]],
+    :jawaban "B"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 44 + 41 = 85 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db723f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    49 + 33 = ___ <br>\n</p>\n\n",
+    :options
+    [[false "84 " 0]
+     [false "80 " 1]
+     [true "82 " 2]
+     [false "83" 3]
+     [false "81 " 4]],
+    :jawaban "C"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 49 + 33 = 82 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db733f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    38 + 34 = ___ <br>\n</p>\n\n",
+    :options
+    [[false "70 " 0]
+     [false "73" 1]
+     [true "72 " 2]
+     [false "69 " 3]
+     [false "71 " 4]],
+    :jawaban "C"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 38 + 34 = 72 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db743f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    45 + 39 = ___ <br>\n</p>\n\n",
+    :options
+    [[true "84 " 0]
+     [false "81 " 1]
+     [false "85 " 2]
+     [false "86 " 3]
+     [false "82" 4]],
+    :jawaban "A"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 45 + 39 = 84 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db753f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    44 + 42 = ___ <br>\n</p>\n\n",
+    :options
+    [[false "83 " 0]
+     [true "86 " 1]
+     [false "85 " 2]
+     [false "88" 3]
+     [false "84 " 4]],
+    :jawaban "B"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 44 + 42 = 86 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db763f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    41 + 35 = ___ <br>\n</p>\n\n",
+    :options
+    [[false "75" 0]
+     [true "76 " 1]
+     [false "73 " 2]
+     [false "74 " 3]
+     [false "77 " 4]],
+    :jawaban "B"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 41 + 35 = 76 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db773f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    ___ + 44 = 93 <br>\n</p>\n\n",
+    :options
+    [[false "47 " 0]
+     [true "49 " 1]
+     [false "50 " 2]
+     [false "46" 3]
+     [false "48 " 4]],
+    :jawaban "B"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 49 + 44 = 93 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db783f1b11ebb0f3bbb31958bc9f"}}
+  {:soal
+   {:soal-text
+    "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    48 + 36 = ___ <br>\n</p>\n\n",
+    :options
+    [[false "82 " 0]
+     [false "86 " 1]
+     [false "83" 2]
+     [true "84 " 3]
+     [false "81 " 4]],
+    :jawaban "D"},
+   :bahas
+   "\n\n<p>\n\n    Sebenernya ini sederhana aja kan 48 + 36 = 84 <br>\n    Nah yang penting gimana caranya supaya cepet dan kreatif. <br>\n    Beberapa contoh : (Jangan diapal tapi ya!) <br><br>\n    - Puluhan tambah puluhan aja dulu <br>\n    - Baru tambah satuan +  satuan <br>\n    - Kalo hasil satuan + satuan > 10 ya tinggal tambahin ke hasil jumlah puluhan <br>\n</p>",
+   :meta
+   {:template-id "1a654de03f1211ebb0f3bbb31958bc9f",
+    :level-id "1a6574f03f1211ebb0f3bbb31958bc9f",
+    :topic "math",
+    :problem-id "b025db793f1b11ebb0f3bbb31958bc9f"}}]}

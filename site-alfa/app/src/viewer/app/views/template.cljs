@@ -11,6 +11,7 @@
     (let [templates (re/subscribe [:subs-data-templates])]
       [:div.container
        (into [:div.row]
-             (for [{:keys [template-id creator title]} @templates]
-               [:button {:on-click #(server/get-problems template-id)}
-                (str "Problem name : " title "  by " creator)]))])))
+             (for [{:keys [template-id filename]} @templates]
+               [:button {:on-click #(do (server/get-problems template-id)
+                                        (js/console.log template-id))}
+                (str "Problem name : " filename)]))])))

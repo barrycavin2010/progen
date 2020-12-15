@@ -11,8 +11,8 @@
   "Starting the viewer"
   [which-system]
   (->> (condp = which-system
-         :viewersys (viewersys/create-system which-system)
-         :sitesys (sitesys/create-system which-system))
+         :viewer (viewersys/create-system which-system)
+         :site (sitesys/create-system which-system))
        (component/start-system)
        (reset! dev-system)))
 
