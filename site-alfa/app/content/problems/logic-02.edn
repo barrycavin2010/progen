@@ -1,0 +1,1100 @@
+[{:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat THR <br>\n - Steven tidak mendapat THR <br>\n <br>\n Kesimpulan: Steven tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat THR. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Steven itu ga mendapat THR ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e03f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat THR <br>\n - Calvin tidak mendapat THR <br>\n <br>\n Kesimpulan: Calvin tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat THR. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Calvin itu ga mendapat THR ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e13f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat THR <br>\n - Oncom tidak mendapat THR <br>\n <br>\n Kesimpulan: Oncom tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat THR. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Oncom itu ga mendapat THR ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e23f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat THR <br>\n - Ketoprak tidak mendapat THR <br>\n <br>\n Kesimpulan: Ketoprak tidak pulang kampung\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat THR. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Ketoprak itu ga mendapat THR ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e33f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat THR <br>\n - Firmino tidak mendapat THR <br>\n <br>\n Kesimpulan: Firmino tidak pulang kampung\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat THR. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Firmino itu ga mendapat THR ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e43f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat cuti <br>\n - Steven tidak mendapat cuti <br>\n <br>\n Kesimpulan: Steven tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat cuti. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Steven itu ga mendapat cuti ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e53f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat cuti <br>\n - Calvin tidak mendapat cuti <br>\n <br>\n Kesimpulan: Calvin tidak pulang kampung\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat cuti. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Calvin itu ga mendapat cuti ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e63f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat cuti <br>\n - Oncom tidak mendapat cuti <br>\n <br>\n Kesimpulan: Oncom tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat cuti. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Oncom itu ga mendapat cuti ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e73f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat cuti <br>\n - Ketoprak tidak mendapat cuti <br>\n <br>\n Kesimpulan: Ketoprak tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat cuti. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Ketoprak itu ga mendapat cuti ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e83f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung mendapat cuti <br>\n - Firmino tidak mendapat cuti <br>\n <br>\n Kesimpulan: Firmino tidak pulang kampung\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan mendapat cuti. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Firmino itu ga mendapat cuti ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3e93f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung naik gaji <br>\n - Steven tidak naik gaji <br>\n <br>\n Kesimpulan: Steven tidak pulang kampung\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan naik gaji. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Steven itu ga naik gaji ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3ea3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung naik gaji <br>\n - Calvin tidak naik gaji <br>\n <br>\n Kesimpulan: Calvin tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan naik gaji. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Calvin itu ga naik gaji ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3eb3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung naik gaji <br>\n - Oncom tidak naik gaji <br>\n <br>\n Kesimpulan: Oncom tidak pulang kampung\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan naik gaji. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Oncom itu ga naik gaji ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3ec3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung naik gaji <br>\n - Ketoprak tidak naik gaji <br>\n <br>\n Kesimpulan: Ketoprak tidak pulang kampung\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan naik gaji. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Ketoprak itu ga naik gaji ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3ed3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung naik gaji <br>\n - Firmino tidak naik gaji <br>\n <br>\n Kesimpulan: Firmino tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan naik gaji. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Firmino itu ga naik gaji ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3ee3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung dapet upah minimal <br>\n - Steven tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Steven tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Steven itu ga dapet upah minimal ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3ef3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung dapet upah minimal <br>\n - Calvin tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Calvin tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Calvin itu ga dapet upah minimal ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f03f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung dapet upah minimal <br>\n - Oncom tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Oncom tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Oncom itu ga dapet upah minimal ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f13f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung dapet upah minimal <br>\n - Ketoprak tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Ketoprak tidak pulang kampung\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Ketoprak itu ga dapet upah minimal ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f23f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang pulang kampung dapet upah minimal <br>\n - Firmino tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Firmino tidak pulang kampung\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang pulang kampung kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo pulang kampung ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga pulang kampung <br>\n Berarti kalo si Firmino itu ga dapet upah minimal ya pasti lah dia ngga pulang kampung\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f33f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat THR <br>\n - Steven tidak mendapat THR <br>\n <br>\n Kesimpulan: Steven tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru kerja <br>\n Berarti kalo si Steven itu ga mendapat THR ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f43f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat THR <br>\n - Calvin tidak mendapat THR <br>\n <br>\n Kesimpulan: Calvin tidak baru kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru kerja <br>\n Berarti kalo si Calvin itu ga mendapat THR ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f53f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat THR <br>\n - Oncom tidak mendapat THR <br>\n <br>\n Kesimpulan: Oncom tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru kerja <br>\n Berarti kalo si Oncom itu ga mendapat THR ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f63f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat THR <br>\n - Ketoprak tidak mendapat THR <br>\n <br>\n Kesimpulan: Ketoprak tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru kerja <br>\n Berarti kalo si Ketoprak itu ga mendapat THR ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f73f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat THR <br>\n - Firmino tidak mendapat THR <br>\n <br>\n Kesimpulan: Firmino tidak baru kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru kerja <br>\n Berarti kalo si Firmino itu ga mendapat THR ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f83f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat cuti <br>\n - Steven tidak mendapat cuti <br>\n <br>\n Kesimpulan: Steven tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru kerja <br>\n Berarti kalo si Steven itu ga mendapat cuti ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3f93f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat cuti <br>\n - Calvin tidak mendapat cuti <br>\n <br>\n Kesimpulan: Calvin tidak baru kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru kerja <br>\n Berarti kalo si Calvin itu ga mendapat cuti ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3fa3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat cuti <br>\n - Oncom tidak mendapat cuti <br>\n <br>\n Kesimpulan: Oncom tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru kerja <br>\n Berarti kalo si Oncom itu ga mendapat cuti ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3fb3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat cuti <br>\n - Ketoprak tidak mendapat cuti <br>\n <br>\n Kesimpulan: Ketoprak tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru kerja <br>\n Berarti kalo si Ketoprak itu ga mendapat cuti ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3fc3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja mendapat cuti <br>\n - Firmino tidak mendapat cuti <br>\n <br>\n Kesimpulan: Firmino tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru kerja <br>\n Berarti kalo si Firmino itu ga mendapat cuti ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3fd3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja naik gaji <br>\n - Steven tidak naik gaji <br>\n <br>\n Kesimpulan: Steven tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru kerja <br>\n Berarti kalo si Steven itu ga naik gaji ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3fe3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja naik gaji <br>\n - Calvin tidak naik gaji <br>\n <br>\n Kesimpulan: Calvin tidak baru kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru kerja <br>\n Berarti kalo si Calvin itu ga naik gaji ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f3ff3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja naik gaji <br>\n - Oncom tidak naik gaji <br>\n <br>\n Kesimpulan: Oncom tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru kerja <br>\n Berarti kalo si Oncom itu ga naik gaji ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4003f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja naik gaji <br>\n - Ketoprak tidak naik gaji <br>\n <br>\n Kesimpulan: Ketoprak tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru kerja <br>\n Berarti kalo si Ketoprak itu ga naik gaji ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4013f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja naik gaji <br>\n - Firmino tidak naik gaji <br>\n <br>\n Kesimpulan: Firmino tidak baru kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru kerja <br>\n Berarti kalo si Firmino itu ga naik gaji ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4023f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja dapet upah minimal <br>\n - Steven tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Steven tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru kerja <br>\n Berarti kalo si Steven itu ga dapet upah minimal ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4033f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja dapet upah minimal <br>\n - Calvin tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Calvin tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru kerja <br>\n Berarti kalo si Calvin itu ga dapet upah minimal ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4043f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja dapet upah minimal <br>\n - Oncom tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Oncom tidak baru kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru kerja <br>\n Berarti kalo si Oncom itu ga dapet upah minimal ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4053f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja dapet upah minimal <br>\n - Ketoprak tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Ketoprak tidak baru kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru kerja <br>\n Berarti kalo si Ketoprak itu ga dapet upah minimal ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4063f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru kerja dapet upah minimal <br>\n - Firmino tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Firmino tidak baru kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru kerja <br>\n Berarti kalo si Firmino itu ga dapet upah minimal ya pasti lah dia ngga baru kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4073f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat THR <br>\n - Steven tidak mendapat THR <br>\n <br>\n Kesimpulan: Steven tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Steven itu ga mendapat THR ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4083f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat THR <br>\n - Calvin tidak mendapat THR <br>\n <br>\n Kesimpulan: Calvin tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Calvin itu ga mendapat THR ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4093f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat THR <br>\n - Oncom tidak mendapat THR <br>\n <br>\n Kesimpulan: Oncom tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Oncom itu ga mendapat THR ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f40a3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat THR <br>\n - Ketoprak tidak mendapat THR <br>\n <br>\n Kesimpulan: Ketoprak tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Ketoprak itu ga mendapat THR ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f40b3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat THR <br>\n - Firmino tidak mendapat THR <br>\n <br>\n Kesimpulan: Firmino tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat THR. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Firmino itu ga mendapat THR ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f40c3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat cuti <br>\n - Steven tidak mendapat cuti <br>\n <br>\n Kesimpulan: Steven tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Steven itu ga mendapat cuti ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f40d3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat cuti <br>\n - Calvin tidak mendapat cuti <br>\n <br>\n Kesimpulan: Calvin tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Calvin itu ga mendapat cuti ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f40e3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat cuti <br>\n - Oncom tidak mendapat cuti <br>\n <br>\n Kesimpulan: Oncom tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Oncom itu ga mendapat cuti ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f40f3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat cuti <br>\n - Ketoprak tidak mendapat cuti <br>\n <br>\n Kesimpulan: Ketoprak tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Ketoprak itu ga mendapat cuti ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4103f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja mendapat cuti <br>\n - Firmino tidak mendapat cuti <br>\n <br>\n Kesimpulan: Firmino tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan mendapat cuti. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Firmino itu ga mendapat cuti ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4113f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja naik gaji <br>\n - Steven tidak naik gaji <br>\n <br>\n Kesimpulan: Steven tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Steven itu ga naik gaji ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4123f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja naik gaji <br>\n - Calvin tidak naik gaji <br>\n <br>\n Kesimpulan: Calvin tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Calvin itu ga naik gaji ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4133f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja naik gaji <br>\n - Oncom tidak naik gaji <br>\n <br>\n Kesimpulan: Oncom tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Oncom itu ga naik gaji ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4143f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja naik gaji <br>\n - Ketoprak tidak naik gaji <br>\n <br>\n Kesimpulan: Ketoprak tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Ketoprak itu ga naik gaji ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4153f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja naik gaji <br>\n - Firmino tidak naik gaji <br>\n <br>\n Kesimpulan: Firmino tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan naik gaji. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Firmino itu ga naik gaji ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4163f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja dapet upah minimal <br>\n - Steven tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Steven tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Steven itu ga dapet upah minimal ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4173f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja dapet upah minimal <br>\n - Calvin tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Calvin tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Calvin itu ga dapet upah minimal ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4183f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja dapet upah minimal <br>\n - Oncom tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Oncom tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Oncom itu ga dapet upah minimal ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4193f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja dapet upah minimal <br>\n - Ketoprak tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Ketoprak tidak udah lama kerja\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Ketoprak itu ga dapet upah minimal ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f41a3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang udah lama kerja dapet upah minimal <br>\n - Firmino tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Firmino tidak udah lama kerja\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang udah lama kerja kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo udah lama kerja ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga udah lama kerja <br>\n Berarti kalo si Firmino itu ga dapet upah minimal ya pasti lah dia ngga udah lama kerja\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f41b3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat THR <br>\n - Steven tidak mendapat THR <br>\n <br>\n Kesimpulan: Steven tidak baru jadi maba\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Steven itu ga mendapat THR ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f41c3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat THR <br>\n - Calvin tidak mendapat THR <br>\n <br>\n Kesimpulan: Calvin tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Calvin itu ga mendapat THR ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f41d3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat THR <br>\n - Oncom tidak mendapat THR <br>\n <br>\n Kesimpulan: Oncom tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Oncom itu ga mendapat THR ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f41e3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat THR <br>\n - Ketoprak tidak mendapat THR <br>\n <br>\n Kesimpulan: Ketoprak tidak baru jadi maba\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Ketoprak itu ga mendapat THR ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f41f3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat THR <br>\n - Firmino tidak mendapat THR <br>\n <br>\n Kesimpulan: Firmino tidak baru jadi maba\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat THR. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Firmino itu ga mendapat THR ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4203f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat cuti <br>\n - Steven tidak mendapat cuti <br>\n <br>\n Kesimpulan: Steven tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Steven itu ga mendapat cuti ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4213f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat cuti <br>\n - Calvin tidak mendapat cuti <br>\n <br>\n Kesimpulan: Calvin tidak baru jadi maba\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Calvin itu ga mendapat cuti ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4223f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat cuti <br>\n - Oncom tidak mendapat cuti <br>\n <br>\n Kesimpulan: Oncom tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Oncom itu ga mendapat cuti ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4233f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat cuti <br>\n - Ketoprak tidak mendapat cuti <br>\n <br>\n Kesimpulan: Ketoprak tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Ketoprak itu ga mendapat cuti ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4243f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba mendapat cuti <br>\n - Firmino tidak mendapat cuti <br>\n <br>\n Kesimpulan: Firmino tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan mendapat cuti. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Firmino itu ga mendapat cuti ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4253f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba naik gaji <br>\n - Steven tidak naik gaji <br>\n <br>\n Kesimpulan: Steven tidak baru jadi maba\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan naik gaji. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Steven itu ga naik gaji ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4263f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba naik gaji <br>\n - Calvin tidak naik gaji <br>\n <br>\n Kesimpulan: Calvin tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan naik gaji. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Calvin itu ga naik gaji ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4273f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba naik gaji <br>\n - Oncom tidak naik gaji <br>\n <br>\n Kesimpulan: Oncom tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan naik gaji. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Oncom itu ga naik gaji ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4283f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba naik gaji <br>\n - Ketoprak tidak naik gaji <br>\n <br>\n Kesimpulan: Ketoprak tidak baru jadi maba\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan naik gaji. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Ketoprak itu ga naik gaji ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4293f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba naik gaji <br>\n - Firmino tidak naik gaji <br>\n <br>\n Kesimpulan: Firmino tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan naik gaji. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Firmino itu ga naik gaji ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f42a3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba dapet upah minimal <br>\n - Steven tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Steven tidak baru jadi maba\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Steven itu ga dapet upah minimal ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f42b3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba dapet upah minimal <br>\n - Calvin tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Calvin tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Calvin itu ga dapet upah minimal ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f42c3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba dapet upah minimal <br>\n - Oncom tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Oncom tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Oncom itu ga dapet upah minimal ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f42d3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba dapet upah minimal <br>\n - Ketoprak tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Ketoprak tidak baru jadi maba\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Ketoprak itu ga dapet upah minimal ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f42e3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang baru jadi maba dapet upah minimal <br>\n - Firmino tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Firmino tidak baru jadi maba\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang baru jadi maba kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo baru jadi maba ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga baru jadi maba <br>\n Berarti kalo si Firmino itu ga dapet upah minimal ya pasti lah dia ngga baru jadi maba\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f42f3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat THR <br>\n - Steven tidak mendapat THR <br>\n <br>\n Kesimpulan: Steven tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat THR. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga ikut internship <br>\n Berarti kalo si Steven itu ga mendapat THR ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4303f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat THR <br>\n - Calvin tidak mendapat THR <br>\n <br>\n Kesimpulan: Calvin tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat THR. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga ikut internship <br>\n Berarti kalo si Calvin itu ga mendapat THR ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4313f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat THR <br>\n - Oncom tidak mendapat THR <br>\n <br>\n Kesimpulan: Oncom tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat THR. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga ikut internship <br>\n Berarti kalo si Oncom itu ga mendapat THR ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4323f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat THR <br>\n - Ketoprak tidak mendapat THR <br>\n <br>\n Kesimpulan: Ketoprak tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat THR. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga ikut internship <br>\n Berarti kalo si Ketoprak itu ga mendapat THR ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4333f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat THR <br>\n - Firmino tidak mendapat THR <br>\n <br>\n Kesimpulan: Firmino tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat THR. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat THR lah. <br>\n Jadi kalo dia ngga mendapat THR pasti banget juga ngga ikut internship <br>\n Berarti kalo si Firmino itu ga mendapat THR ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4343f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat cuti <br>\n - Steven tidak mendapat cuti <br>\n <br>\n Kesimpulan: Steven tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat cuti. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga ikut internship <br>\n Berarti kalo si Steven itu ga mendapat cuti ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4353f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat cuti <br>\n - Calvin tidak mendapat cuti <br>\n <br>\n Kesimpulan: Calvin tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat cuti. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga ikut internship <br>\n Berarti kalo si Calvin itu ga mendapat cuti ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4363f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat cuti <br>\n - Oncom tidak mendapat cuti <br>\n <br>\n Kesimpulan: Oncom tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat cuti. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga ikut internship <br>\n Berarti kalo si Oncom itu ga mendapat cuti ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4373f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat cuti <br>\n - Ketoprak tidak mendapat cuti <br>\n <br>\n Kesimpulan: Ketoprak tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat cuti. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga ikut internship <br>\n Berarti kalo si Ketoprak itu ga mendapat cuti ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4383f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship mendapat cuti <br>\n - Firmino tidak mendapat cuti <br>\n <br>\n Kesimpulan: Firmino tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan mendapat cuti. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti mendapat cuti lah. <br>\n Jadi kalo dia ngga mendapat cuti pasti banget juga ngga ikut internship <br>\n Berarti kalo si Firmino itu ga mendapat cuti ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4393f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship naik gaji <br>\n - Steven tidak naik gaji <br>\n <br>\n Kesimpulan: Steven tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan naik gaji. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga ikut internship <br>\n Berarti kalo si Steven itu ga naik gaji ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f43a3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship naik gaji <br>\n - Calvin tidak naik gaji <br>\n <br>\n Kesimpulan: Calvin tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan naik gaji. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga ikut internship <br>\n Berarti kalo si Calvin itu ga naik gaji ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f43b3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship naik gaji <br>\n - Oncom tidak naik gaji <br>\n <br>\n Kesimpulan: Oncom tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan naik gaji. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga ikut internship <br>\n Berarti kalo si Oncom itu ga naik gaji ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f43c3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship naik gaji <br>\n - Ketoprak tidak naik gaji <br>\n <br>\n Kesimpulan: Ketoprak tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan naik gaji. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga ikut internship <br>\n Berarti kalo si Ketoprak itu ga naik gaji ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f43d3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship naik gaji <br>\n - Firmino tidak naik gaji <br>\n <br>\n Kesimpulan: Firmino tidak ikut internship\n\n</p>\n\n",
+   :options [[false "Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan naik gaji. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti naik gaji lah. <br>\n Jadi kalo dia ngga naik gaji pasti banget juga ngga ikut internship <br>\n Berarti kalo si Firmino itu ga naik gaji ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f43e3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship dapet upah minimal <br>\n - Steven tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Steven tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga ikut internship <br>\n Berarti kalo si Steven itu ga dapet upah minimal ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f43f3f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship dapet upah minimal <br>\n - Calvin tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Calvin tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga ikut internship <br>\n Berarti kalo si Calvin itu ga dapet upah minimal ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4403f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship dapet upah minimal <br>\n - Oncom tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Oncom tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga ikut internship <br>\n Berarti kalo si Oncom itu ga dapet upah minimal ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4413f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship dapet upah minimal <br>\n - Ketoprak tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Ketoprak tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga ikut internship <br>\n Berarti kalo si Ketoprak itu ga dapet upah minimal ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4423f8211ebb0f3bbb31958bc9f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Diketahui beberapa informasi berikut: <br>\n - Semua yang ikut internship dapet upah minimal <br>\n - Firmino tidak dapet upah minimal <br>\n <br>\n Kesimpulan: Firmino tidak ikut internship\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false "Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n Kita tahu bahwa SEMUA yang ikut internship kan dapet upah minimal. <br>\n Berarti udah pasti dong kalo ikut internship ya pasti dapet upah minimal lah. <br>\n Jadi kalo dia ngga dapet upah minimal pasti banget juga ngga ikut internship <br>\n Berarti kalo si Firmino itu ga dapet upah minimal ya pasti lah dia ngga ikut internship\n\n</p>",
+  :template-id "2dfae6a03f0b11ebb0f3bbb31958bc9f",
+  :level-id "2dfae6a13f0b11ebb0f3bbb31958bc9f",
+  :topic "logic",
+  :problem-id "43d4f4433f8211ebb0f3bbb31958bc9f"}]

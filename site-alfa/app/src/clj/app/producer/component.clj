@@ -26,17 +26,27 @@
   [source target all-data]
   (let [problem-metas (mapv #(grab source %) all-data)
         generated-problems (mapv producer/generate problem-metas)
+        templates (->> (mapv #(dissoc % :gen-fn :soal :bahasan) problem-metas)
+                       (mapv #(assoc % :template-id (get-in % [:meta :template-id]))))
         results (mapv #(merge %1 {:problems %2})
                       (mapv #(dissoc % :gen-fn :soal :bahasan) problem-metas)
                       generated-problems)
-        problem-map (zipmap (map #(get-in % [:meta :template-id]) problem-metas) generated-problems)]
-    (pres (mapv #(dissoc % :gen-fn :soal :bahasan) problem-metas))
-    (doseq [{:keys [filename] :as content} results]
+        problem-map (-> #(get-in % [:meta :template-id])
+                        (map problem-metas)
+                        (zipmap generated-problems))
+        all-results {:templates   templates
+                     :problem-map problem-map}]
+    (cspit (str target "problems.edn")
+           (->> (mapv #(dissoc % :problems) results)
+                (mapv #(merge % (:meta %)))
+                (mapv #(dissoc % :meta))
+                (mapv #(assoc % :edn-file (str (first (cs/split (:filename %) #"\.")) ".edn")))))
+    (doseq [{:keys [filename problems]} results]
       (let [edn-name (str (first (cs/split filename #"\.")) ".edn")]
-        (cspit (str target edn-name) content)))
-    {:templates   (->> (mapv #(dissoc % :gen-fn :soal :bahasan) problem-metas)
-                       (mapv #(assoc % :template-id (get-in % [:meta :template-id]))))
-     :problem-map problem-map}))
+        (cspit (str target "problems/" edn-name)
+               (->> (mapv #(merge % (:meta %)) problems)
+                    (mapv #(dissoc % :meta))))))
+    all-results))
 
 (defn- grab
   "Grab the file for one problem template, and process it"

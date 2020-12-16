@@ -1,5 +1,5 @@
 {:server {:port 4000
           :path "/"
           :host "localhost"}
- :dbase {:content "resources/content/"
+ :dbase {:content "content/"
          :redis {:pool {} :spec {}}}}
