@@ -1,6 +1,29 @@
 (ns app.schema
   (:require [schema.core :as s]))
 
+;; Viewer app schemas
+
+;; Site app schemas
+
+(comment
+  "Required refs"
+
+  "Content entities"
+  :template-ids
+  :templates [:math :english :logic]
+  :problem-map "Big map from template-id to list of problem-ids for that template"
+  :problems "All problems keyed by problem-id")
+
+(def template
+  {:template-id s/Str
+   :edn-file    s/Str
+   :topic       s/Str})
+
+(def templates
+  {:math    [template]
+   :english [template]
+   :logic   [template]})
+
 ;; Content schemas
 
 (def cg-schema
@@ -125,7 +148,7 @@
    :zp-problem-id s/Any})
 
 (def pre-library-schema
-  {:lib-source    s/Str})
+  {:lib-source s/Str})
 
 (def library-schema
   (merge pre-library-schema

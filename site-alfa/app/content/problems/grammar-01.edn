@@ -1,1800 +1,360 @@
 [{:soal
   {:soal-text
-   "\n\n<p>\n Ronaldo and Calvin missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791803f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Calvin missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [false "he" 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791813f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "them " 1] [false "him " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791823f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Ronaldo missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "he" 0] [true "them " 1] [false "us " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791833f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Firmino missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "he" 1] [false "him " 2] [false "us " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791843f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "them " 1] [false "me" 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791853f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "me" 0] [true "us " 1] [false "them " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791863f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "them " 1] [false "him " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791873f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "them " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791883f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Steven missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "he" 1] [false "us " 2] [false "him " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791893f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Ronaldo missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "he" 2] [false "us " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7918a3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "me" 0] [true "us " 1] [false "them " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7918b3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "them " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7918c3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "me" 1] [false "him " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7918d3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "him " 1] [false "me" 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7918e3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "them " 1] [false "him " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7918f3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "them " 1] [false "him " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791903f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Roberto missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "us " 0] [true "them " 1] [false "him " 2] [false "he" 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791913f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Steven missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791923f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Calvin missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "us " 1] [false "him " 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791933f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Firmino missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "him " 1] [false "us " 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791943f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Ronaldo missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "us " 1] [false "him " 2] [false "he" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791953f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "them " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791963f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Firmino missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "us " 0] [true "them " 1] [false "he" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791973f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "he" 1] [false "us " 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791983f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Roberto missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [false "he" 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791993f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "me" 0] [false "him " 1] [false "them " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7919a3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "me" 0] [false "him " 1] [false "them " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7919b3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "them " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7919c3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Ronaldo missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "he" 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7919d3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "me" 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7919e3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Steven missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "him " 0] [true "them " 1] [false "us " 2] [false "he" 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7919f3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "me" 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a03f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a13f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "he" 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a23f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Ronaldo missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "us " 2] [false "he" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a33f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Calvin missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "he" 1] [true "them " 2] [false "us " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a43f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "him " 1] [false "me" 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a53f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "them " 1] [false "me" 2] [false "him " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a63f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Firmino missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "he" 0] [true "them " 1] [false "us " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a73f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Steven missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a83f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Steven missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "us " 0] [true "them " 1] [false "him " 2] [false "he" 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791a93f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "me" 1] [false "him " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791aa3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
    "\n\n<p>\n Steven and I missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
    :options
-   [[true "us " 0] [false "them " 1] [false "me" 2] [false "him " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ab3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "me" 1] [true "us " 2] [false "them " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ac3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Roberto missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "he" 2] [false "us " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ad3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "him " 0] [true "them " 1] [false "he" 2] [false "us " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ae3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791af3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "me" 0] [false "him " 1] [true "us " 2] [false "them " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b03f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Steven missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "he" 1] [true "them " 2] [false "us " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b13f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "us " 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b23f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Firmino missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "he" 0] [true "them " 1] [false "us " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b33f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "him " 0] [true "us " 1] [false "me" 2] [false "them " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b43f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "them " 0] [true "us " 1] [false "me" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b53f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Ronaldo missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "us " 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b63f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "them " 0] [true "us " 1] [false "me" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b73f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Ronaldo missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "he" 2] [false "us " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b83f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Firmino missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "him " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791b93f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Calvin missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "him " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ba3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Roberto missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "he" 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791bb3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Ronaldo missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "him " 1] [false "us " 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791bc3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Roberto missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "us " 0] [true "them " 1] [false "he" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791bd3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
    [[false "me" 0] [true "us " 1] [false "them " 2] [false "him " 3]],
    :jawaban "B"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791be3f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "10814d103fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Steven and Firmino missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "us " 1] [false "him " 2] [false "he" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791bf3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Ronaldo missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "us " 2] [false "he" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c03f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "me" 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c13f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Firmino missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
+   "\n\n<p>\n Calvin and Steven missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
    :options
    [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
    :jawaban "C"},
   :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c23f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "me" 1] [true "us " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c33f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Steven missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "him " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
-  :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c43f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174203fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Firmino and Steven missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
+   "\n\n<p>\n Calvin and Roberto missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
    :options
-   [[false "us " 0] [false "him " 1] [false "he" 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c53f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Roberto missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "us " 1] [false "him " 2] [true "them " 3]],
-   :jawaban "D"},
+   [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
+   :jawaban "C"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c63f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c73f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "me" 1] [true "us " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c83f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174213fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
    "\n\n<p>\n Ronaldo and I missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "them " 1] [false "me" 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791c93f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Roberto missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [false "he" 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ca3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "me" 1] [false "him " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791cb3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "he" 2] [false "us " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791cc3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791cd3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "me" 0] [true "us " 1] [false "them " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ce3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "me" 0] [true "us " 1] [false "them " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791cf3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "me" 1] [false "them " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d03f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "him " 1] [true "us " 2] [false "me" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d13f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Calvin missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "us " 1] [false "him " 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d23f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "he" 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d33f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Firmino missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "he" 1] [false "him " 2] [false "us " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d43f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "me" 1] [true "us " 2] [false "them " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d53f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "me" 0] [false "them " 1] [false "him " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d63f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "them " 0] [true "us " 1] [false "me" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d73f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "he" 1] [false "him " 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d83f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "me" 0] [false "him " 1] [true "us " 2] [false "them " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791d93f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "them " 0] [true "us " 1] [false "me" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791da3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Roberto missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "he" 1] [false "us " 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791db3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "me" 0] [true "us " 1] [false "him " 2] [false "them " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791dc3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "him " 0] [true "us " 1] [false "me" 2] [false "them " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791dd3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "them " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791de3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "him " 1] [true "us " 2] [false "me" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791df3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "me" 1] [true "us " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e03f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Firmino missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "us " 2] [false "he" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e13f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "me" 0] [false "him " 1] [false "them " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e23f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "them " 1] [false "me" 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e33f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Roberto missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "us " 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e43f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Firmino missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "us " 0] [true "them " 1] [false "he" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e53f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "me" 0] [true "us " 1] [false "them " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e63f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e73f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Steven missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "he" 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e83f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Calvin missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "he" 1] [true "them " 2] [false "him " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791e93f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Firmino missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "he" 0] [true "them " 1] [false "him " 2] [false "us " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ea3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
    :options
    [[true "us " 0] [false "me" 1] [false "them " 2] [false "him " 3]],
    :jawaban "A"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791eb3f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174223fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Roberto and Calvin missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "he" 0] [true "them " 1] [false "us " 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ec3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   "\n\n<p>\n Firmino and I missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
    :options
    [[false "them " 0] [true "us " 1] [false "him " 2] [false "me" 3]],
    :jawaban "B"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ed3f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174233fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Firmino and Calvin missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   "\n\n<p>\n Steven and Firmino missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
+   :options
+   [[false "him " 0] [true "them " 1] [false "us " 2] [false "he" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174243fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Roberto and Firmino missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
+   :options
+   [[false "him " 0] [false "he" 1] [true "them " 2] [false "us " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174253fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Firmino and Roberto missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   :options
+   [[false "him " 0] [false "he" 1] [false "us " 2] [true "them " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174263fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Steven and Roberto missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
    :options
    [[true "them " 0] [false "he" 1] [false "us " 2] [false "him " 3]],
    :jawaban "A"},
   :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ee3f8211ebb0f3bbb31958bc9f"}
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174273fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ef3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "me" 0] [true "us " 1] [false "him " 2] [false "them " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f03f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Firmino missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "us " 0] [true "them " 1] [false "he" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f13f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Ronaldo missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "us " 0] [true "them " 1] [false "he" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f23f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "me" 1] [false "them " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f33f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "him " 0] [true "us " 1] [false "me" 2] [false "them " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f43f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Calvin missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f53f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "them " 0] [true "us " 1] [false "me" 2] [false "him " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f63f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Roberto missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
+   "\n\n<p>\n Calvin and Ronaldo missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
    :options
    [[false "us " 0] [false "he" 1] [false "him " 2] [true "them " 3]],
    :jawaban "D"},
   :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f73f8211ebb0f3bbb31958bc9f"}
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174283fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Calvin and Steven missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
+   "\n\n<p>\n Roberto and I missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   :options
+   [[false "me" 0] [false "them " 1] [true "us " 2] [false "him " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174293fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Roberto and Steven missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
    :options
    [[true "them " 0] [false "him " 1] [false "us " 2] [false "he" 3]],
    :jawaban "A"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f83f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081742a3fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Calvin and I missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
+   :options
+   [[false "them " 0] [false "him " 1] [true "us " 2] [false "me" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081742b3fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
    "\n\n<p>\n Roberto and I missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
    :options
-   [[false "them " 0] [false "me" 1] [false "him " 2] [true "us " 3]],
-   :jawaban "D"},
+   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
+   :jawaban "A"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791f93f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081742c3fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Calvin and I missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
+   "\n\n<p>\n Roberto and I missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
    :options
    [[false "me" 0] [true "us " 1] [false "him " 2] [false "them " 3]],
    :jawaban "B"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791fa3f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081742d3fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Firmino and Calvin missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
+   "\n\n<p>\n Firmino and Steven missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
    :options
-   [[false "he" 0] [true "them " 1] [false "him " 2] [false "us " 3]],
+   [[false "he" 0] [true "them " 1] [false "us " 2] [false "him " 3]],
    :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791fb3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and Steven missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791fc3f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081742e3fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Calvin and I missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
+   "\n\n<p>\n Ronaldo and Firmino missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
    :options
-   [[true "us " 0] [false "him " 1] [false "them " 2] [false "me" 3]],
+   [[true "them " 0] [false "us " 1] [false "he" 2] [false "him " 3]],
    :jawaban "A"},
   :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791fd3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and Firmino missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "he" 0] [false "him " 1] [false "us " 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791fe3f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081742f3fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "me" 1] [false "him " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e791ff3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Calvin missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792003f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "me" 0] [false "them " 1] [false "him " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792013f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Firmino missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [true "them " 1] [false "he" 2] [false "us " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792023f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "him " 1] [false "them " 2] [false "me" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792033f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and I missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "him " 0] [true "us " 1] [false "them " 2] [false "me" 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792043f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
+   "\n\n<p>\n Calvin and I missed the morning train, and this made ____ late for the meeting.\n</p>\n\n",
    :options
    [[false "them " 0] [true "us " 1] [false "him " 2] [false "me" 3]],
    :jawaban "B"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792053f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174303fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Calvin and Roberto missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
+   "\n\n<p>\n Steven and Roberto missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
    :options
-   [[false "him " 0] [true "them " 1] [false "us " 2] [false "he" 3]],
+   [[true "them " 0] [false "he" 1] [false "him " 2] [false "us " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174313fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Calvin and I missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
+   :options
+   [[false "me" 0] [false "them " 1] [true "us " 2] [false "him " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174323fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Ronaldo and I missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
+   :options
+   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174333fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Steven and Roberto missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
+   :options
+   [[false "him " 0] [true "them " 1] [false "he" 2] [false "us " 3]],
    :jawaban "B"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792063f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174343fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Steven and Roberto missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   "\n\n<p>\n Roberto and I missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
    :options
-   [[false "he" 0] [false "him " 1] [true "them " 2] [false "us " 3]],
-   :jawaban "C"},
+   [[true "us " 0] [false "him " 1] [false "them " 2] [false "me" 3]],
+   :jawaban "A"},
   :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792073f8211ebb0f3bbb31958bc9f"}
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174353fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning train, and this made ____ late for the presentation.\n</p>\n\n",
+   "\n\n<p>\n Calvin and I missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
    :options
    [[false "me" 0] [true "us " 1] [false "them " 2] [false "him " 3]],
    :jawaban "B"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792083f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174363fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Firmino and Ronaldo missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "us " 2] [false "he" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792093f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and Steven missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "us " 1] [false "he" 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7920a3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "him " 0] [false "me" 1] [true "us " 2] [false "them " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7920b3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Firmino and I missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[false "me" 0] [false "him " 1] [true "us " 2] [false "them " 3]],
-   :jawaban "C"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7920c3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Steven and I missed the early bus, and this made ____ late for the presentation.\n</p>\n\n",
-   :options
-   [[false "them " 0] [false "me" 1] [false "him " 2] [true "us " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7920d3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Firmino missed the morning flight, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "he" 1] [false "him " 2] [false "us " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7920e3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Ronaldo missed the early bus, and this made ____ late for the meeting.\n</p>\n\n",
-   :options
-   [[false "us " 0] [false "him " 1] [false "he" 2] [true "them " 3]],
-   :jawaban "D"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e7920f3f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Ronaldo and I missed the morning train, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   "\n\n<p>\n Roberto and I missed the morning train, and this made ____ late for the football game.\n</p>\n\n",
    :options
    [[false "him " 0] [true "us " 1] [false "them " 2] [false "me" 3]],
    :jawaban "B"},
   :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792103f8211ebb0f3bbb31958bc9f"}
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174373fb211eb922226635d7a8a5f"}
  {:soal
   {:soal-text
-   "\n\n<p>\n Ronaldo and Roberto missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   "\n\n<p>\n Steven and I missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   :options
+   [[true "us " 0] [false "them " 1] [false "him " 2] [false "me" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174383fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Steven and I missed the morning flight, and this made ____ late for the presentation.\n</p>\n\n",
+   :options
+   [[false "me" 0] [false "them " 1] [true "us " 2] [false "him " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "108174393fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Ronaldo and Calvin missed the morning flight, and this made ____ late for the meeting.\n</p>\n\n",
    :options
    [[false "he" 0] [false "us " 1] [true "them " 2] [false "him " 3]],
    :jawaban "C"},
   :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Calvin itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081743a3fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Firmino and Ronaldo missed the morning flight, and this made ____ late for the football game.\n</p>\n\n",
+   :options
+   [[false "him " 0] [false "he" 1] [false "us " 2] [true "them " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Ronaldo itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081743b3fb211eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n Calvin and Roberto missed the morning flight, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
+   :options
+   [[false "him " 0] [false "us " 1] [true "them " 2] [false "he" 3]],
+   :jawaban "C"},
+  :bahas
   "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Roberto itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792113f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the morning train, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "us " 1] [false "him " 2] [false "he" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792123f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Calvin and Firmino missed the early bus, and this made ____ late for the football game.\n</p>\n\n",
-   :options
-   [[false "he" 0] [true "them " 1] [false "him " 2] [false "us " 3]],
-   :jawaban "B"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Firmino itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792133f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and Steven missed the early bus, and this made ____ late for the movie&#39;s premier.\n</p>\n\n",
-   :options
-   [[true "them " 0] [false "him " 1] [false "us " 2] [false "he" 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena Steven itu maksudnya berarti orang ketiga tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang ketiga jamak. So jawabannya jadi them.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792143f8211ebb0f3bbb31958bc9f"}
- {:soal
-  {:soal-text
-   "\n\n<p>\n Roberto and I missed the early bus, and this made ____ late for the wedding.\n</p>\n\n",
-   :options
-   [[true "us " 0] [false "me" 1] [false "him " 2] [false "them " 3]],
-   :jawaban "A"},
-  :bahas
-  "\n\n<p>\n Dalam kasus ini, kita mesti tau yg jadi object ini siapa, nah kalimat di depan itu yg <br>\n bisa bantu kita tau, yang diomongin ini maksudnya siapa. Karena berdua, jadinya objectnya plural hehe <br>\n Karena I itu maksudnya berarti orang pertama tunggal dan berarti ini berdua yang missed <br>\n Jadi jatohnya si object ini orang pertama jamak. So jawabannya jadi us.\n</p>",
-  :template-id "2dfbf8103f0b11ebb0f3bbb31958bc9f",
-  :level-id "2dfbf8113f0b11ebb0f3bbb31958bc9f",
-  :topic "english",
-  :problem-id "43e792153f8211ebb0f3bbb31958bc9f"}]
+  :template-id "1079abf03fb211eb922226635d7a8a5f",
+  :level-id "1079abf13fb211eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "1081743c3fb211eb922226635d7a8a5f"}]

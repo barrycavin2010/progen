@@ -7,9 +7,7 @@
 (defn problem-panel
   []
   (fn []
-    (let [problems (re/subscribe [:subs-data-problems])
-          countprobs (fn [] (js/console.log @problems))]
-      (js/setTimeout #(countprobs) 3000)
+    (let [problems (re/subscribe [:subs-data-problems])]
       [:div.container
        [:button {:on-click #(re/dispatch [:event-set-main-panel :panel-templates])}
         "Back to templates"]

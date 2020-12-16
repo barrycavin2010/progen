@@ -21,13 +21,14 @@
         k2s ["the wedding" "the meeting" "the presentation" "the movie's premier" "the football game"]
         s1s (male-subjects)
         pros ["pertama" "ketiga"]]
-    (shuffle
-      (for [k1 k1s k2 k2s s1 s1s pro pros]
-        (if (= "pertama" pro)
-          {:k1 k1 :k2 k2 :pro pro :s1 s1 :s2 "I"
-           :pb "us" :p1 "him" :p2 "them" :p3 "me"}
-          {:k1 k1 :k2 k2 :pro pro :s1 s1 :s2 (rand-nth (vec (cset/difference (set s1s) #{s1})))
-           :pb "them" :p1 "him" :p2 "us" :p3 "he"})))))
+    (->> (for [k1 k1s k2 k2s s1 s1s pro pros]
+           (if (= "pertama" pro)
+             {:k1 k1 :k2 k2 :pro pro :s1 s1 :s2 "I"
+              :pb "us" :p1 "him" :p2 "them" :p3 "me"}
+             {:k1 k1 :k2 k2 :pro pro :s1 s1 :s2 (rand-nth (vec (cset/difference (set s1s) #{s1})))
+              :pb "them" :p1 "him" :p2 "us" :p3 "he"}))
+         shuffle
+         (take 30))))
 
 
 

@@ -11,7 +11,7 @@
 
 (defn arit-01
   []
-  (->> (for [b (range 30 50)
+  (->> (for [b (range 10 50)
              a (range (+ b 2) 50)
              blank [:a :b :c]]
          (let [ab a bb b cb (+ a b)
@@ -21,4 +21,4 @@
              :b (merge mapi {:b "___" :pb b} (rand+ b))
              :c (merge mapi {:c "___" :pb cb} (rand+ cb)))))
        (shuffle)
-       (take 10)))
+       (take 100)))

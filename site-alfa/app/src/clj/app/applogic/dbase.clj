@@ -1,6 +1,7 @@
 (ns app.applogic.dbase
   (:require
     [com.stuartsierra.component :as component]
+    [taoensso.carmine :as car :refer [wcar]]
     [app.utils :refer :all]))
 
 (declare grab-content init-db set-cronjob load-db)
@@ -9,46 +10,30 @@
   component/Lifecycle
   (start [this]
     (println "Dbase component started")
-    (let [db (ref nil)]
-      (init-db source db)
-      (load-db db redis)
-      (set-cronjob db redis)
-      (merge this
-             {:templates {:pesan "Amitabacan"}
-              :conn redis
-              :db db})))
+    (let [db (init-db)]))
   (stop [this] this))
 
 (defn make [db-config]
   (map->Dbase db-config))
 
+(defn load-db
+  "Load content data from existing db"
+  [{:keys [conn] :as dbase}]
+  {:template-ids (wcar conn (car/get :template-ids))
+   :templates    (wcar conn (car/get :templates))
+   :problem-map (wcar conn (car/get :problem-map))
+   :problems (wcar conn (car/get :problems))})
+
 (defn init-db
-  [source db]
-  (dosync (ref-set db {:content {:template-math {}
-                                 :template-english {}
-                                 :template-logic {}
-                                 :data-math {}
-                                 :data-english {}
-                                 :data-logic {}}
-                       :user {:profile {}
-                              :stat-math {}
-                              :stat-logic {}
-                              :stat-english {}
-                              :stat-template-math {}
-                              :stat-template-logic {}
-                              :stat-template-english {}}
-                       :stat {:template-math {}
-                              :template-english {}
-                              :template-logic {}
-                              :data-math {}
-                              :data-english {}
-                              :data-logic {}}})))
-
-
-
-
-
-
-
-
+  []
+  {:content       {:template-ids    []
+                   :templates       {:math    []
+                                     :logic   []
+                                     :english []}
+                   :problem-ids-map {}
+                   :problems        {}}
+   :content-stats (ref {:templates {:math    []
+                                    :logic   []
+                                    :english []}
+                        :problems  {}})})
 

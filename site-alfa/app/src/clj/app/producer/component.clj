@@ -39,8 +39,8 @@
     (cspit (str target "problems.edn")
            (->> (mapv #(dissoc % :problems) results)
                 (mapv #(merge % (:meta %)))
-                (mapv #(dissoc % :meta))
-                (mapv #(assoc % :edn-file (str (first (cs/split (:filename %) #"\.")) ".edn")))))
+                (mapv #(assoc % :edn-file (str (first (cs/split (:filename %) #"\.")) ".edn")))
+                (mapv #(dissoc % :meta :file :filename :generated?))))
     (doseq [{:keys [filename problems]} results]
       (let [edn-name (str (first (cs/split filename #"\.")) ".edn")]
         (cspit (str target "problems/" edn-name)
@@ -61,7 +61,7 @@
       (let [problem-meta {:template-id (uuid)
                           :level-id    (uuid)
                           :generated?  true
-                          :topic       folder}
+                          :topic       (keyword folder)}
             new-problem-string (str "\n" (cstr problem-meta) "\n"
                                     "==sepa==" "\n"
                                     problem-string)]
