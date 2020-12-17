@@ -10,6 +10,10 @@
   :level-id "1079abf13fb211eb922226635d7a8a5f",
   :topic :english,
   :edn-file "grammar-01.edn"}
+ {:template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :edn-file "grammar-02.edn"}
  {:template-id "107a21203fb211eb922226635d7a8a5f",
   :level-id "107a21213fb211eb922226635d7a8a5f",
   :topic :math,

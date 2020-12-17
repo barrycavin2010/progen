@@ -1,0 +1,1344 @@
+[{:soal
+  {:soal-text "\n\n<p>\n  She _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "is playing badminton " 0]
+    [false "playing badminton" 1]
+    [true "plays badminton " 2]
+    [false "play badminton " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk plays badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7403fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "teach the class " 0]
+    [false "teachs the class " 1]
+    [true "teaches the class " 2]
+    [false "is teaching the class" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk teaches the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7413fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ now.\n</p>\n\n",
+   :options
+   [[false "teaches the class " 0]
+    [true "is teaching the class " 1]
+    [false "teaching the class" 2]
+    [false "are teaching the class " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7423fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "are having a standup meeting " 0]
+    [true "is having a standup meeting " 1]
+    [false "having a standup meeting" 2]
+    [false "has a standup meeting " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7433fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "watching movie" 0]
+    [true "am watching movie " 1]
+    [false "is watching movie " 2]
+    [false "watch movie " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7443fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ now.\n</p>\n\n",
+   :options
+   [[false "plays badminton " 0]
+    [false "playing badminton" 1]
+    [false "are playing badminton " 2]
+    [true "is playing badminton " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7453fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ now.\n</p>\n\n",
+   :options
+   [[false "is teaching the class" 0]
+    [false "teach the class " 1]
+    [true "am teaching the class " 2]
+    [false "teaches the class " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7463fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "teach the class " 0]
+    [true "teaches the class " 1]
+    [false "teachs the class " 2]
+    [false "is teaching the class" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk teaches the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7473fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "playing badminton" 0]
+    [false "play badminton " 1]
+    [false "is playing badminton " 2]
+    [true "plays badminton " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk plays badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7483fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ now.\n</p>\n\n",
+   :options
+   [[false "have a standup meeting " 0]
+    [false "having a standup meeting" 1]
+    [false "is having a standup meeting " 2]
+    [true "am having a standup meeting " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7493fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ now.\n</p>\n\n",
+   :options
+   [[false "watching movie " 0]
+    [true "is watching movie " 1]
+    [false "watches movie " 2]
+    [false "are watching movie" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b74a3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ right now.\n</p>\n\n",
+   :options
+   [[false "teaches the class " 0]
+    [false "teaching the class" 1]
+    [false "are teaching the class " 2]
+    [true "is teaching the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b74b3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "is teaching the class" 0]
+    [false "teaches the class " 1]
+    [true "am teaching the class " 2]
+    [false "teach the class " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b74c3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ right now.\n</p>\n\n",
+   :options
+   [[true "is watching movie " 0]
+    [false "watches movie " 1]
+    [false "are watching movie" 2]
+    [false "watching movie " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b74d3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "are having a standup meeting " 0]
+    [true "is having a standup meeting " 1]
+    [false "has a standup meeting " 2]
+    [false "having a standup meeting" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b74e3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "playing badminton" 0]
+    [true "plays badminton " 1]
+    [false "play badminton " 2]
+    [false "is playing badminton " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk plays badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b74f3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ right now.\n</p>\n\n",
+   :options
+   [[true "is having a standup meeting " 0]
+    [false "has a standup meeting " 1]
+    [false "having a standup meeting" 2]
+    [false "are having a standup meeting " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7503fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ right now.\n</p>\n\n",
+   :options
+   [[true "is having a standup meeting " 0]
+    [false "has a standup meeting " 1]
+    [false "are having a standup meeting " 2]
+    [false "having a standup meeting" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7513fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every morning.\n</p>\n\n",
+   :options
+   [[false "playing badminton" 0]
+    [false "play badminton " 1]
+    [false "is playing badminton " 2]
+    [true "plays badminton " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk plays badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7523fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "playing badminton" 0]
+    [true "is playing badminton " 1]
+    [false "plays badminton " 2]
+    [false "are playing badminton " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7533fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ right now.\n</p>\n\n",
+   :options
+   [[false "teaches the class " 0]
+    [true "is teaching the class " 1]
+    [false "teaching the class" 2]
+    [false "are teaching the class " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7543fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "play badminton " 0]
+    [true "am playing badminton " 1]
+    [false "is playing badminton " 2]
+    [false "playing badminton" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7553fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ right now.\n</p>\n\n",
+   :options
+   [[false "is playing badminton " 0]
+    [false "playing badminton" 1]
+    [true "am playing badminton " 2]
+    [false "play badminton " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7563fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ now.\n</p>\n\n",
+   :options
+   [[false "are teaching the class " 0]
+    [false "teaching the class" 1]
+    [false "teaches the class " 2]
+    [true "is teaching the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7573fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "plays badminton " 0]
+    [false "am playing badminton " 1]
+    [true "play badminton " 2]
+    [false "playing badminton" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk play badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7583fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every morning.\n</p>\n\n",
+   :options
+   [[false "having a standup meeting" 0]
+    [false "am having a standup meeting " 1]
+    [false "has a standup meeting " 2]
+    [true "have a standup meeting " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk have a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b7593fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "play badminton " 0]
+    [false "is playing badminton " 1]
+    [true "plays badminton " 2]
+    [false "playing badminton" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk plays badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b75a3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "teach the class " 0]
+    [false "teachs the class " 1]
+    [true "teaches the class " 2]
+    [false "is teaching the class" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk teaches the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b75b3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ now.\n</p>\n\n",
+   :options
+   [[true "is watching movie " 0]
+    [false "are watching movie" 1]
+    [false "watches movie " 2]
+    [false "watching movie " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b75c3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ right now.\n</p>\n\n",
+   :options
+   [[false "teach the class " 0]
+    [false "is teaching the class" 1]
+    [false "teaches the class " 2]
+    [true "am teaching the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b75d3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "watches movie " 0]
+    [false "watching movie" 1]
+    [false "am watching movie " 2]
+    [true "watch movie " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk watch movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b75e3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every Friday.\n</p>\n\n",
+   :options
+   [[true "watches movie " 0]
+    [false "is watching movie " 1]
+    [false "watch movie " 2]
+    [false "watchs movie" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk watches movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300b75f3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every morning.\n</p>\n\n",
+   :options
+   [[false "is teaching the class" 0]
+    [true "teaches the class " 1]
+    [false "teach the class " 2]
+    [false "teachs the class " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk teaches the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de503fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every morning.\n</p>\n\n",
+   :options
+   [[false "am watching movie " 0]
+    [false "watching movie" 1]
+    [false "watches movie " 2]
+    [true "watch movie " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk watch movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de513fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "are playing badminton " 0]
+    [true "is playing badminton " 1]
+    [false "playing badminton" 2]
+    [false "plays badminton " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de523fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every morning.\n</p>\n\n",
+   :options
+   [[false "teach the class " 0]
+    [false "is teaching the class" 1]
+    [true "teaches the class " 2]
+    [false "teachs the class " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk teaches the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de533fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "having a standup meeting" 0]
+    [false "is having a standup meeting " 1]
+    [true "am having a standup meeting " 2]
+    [false "have a standup meeting " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de543fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "watches movie " 0]
+    [false "watching movie" 1]
+    [true "watch movie " 2]
+    [false "am watching movie " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk watch movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de553fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ right now.\n</p>\n\n",
+   :options
+   [[false "having a standup meeting" 0]
+    [true "am having a standup meeting " 1]
+    [false "have a standup meeting " 2]
+    [false "is having a standup meeting " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de563fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "am having a standup meeting " 0]
+    [false "has a standup meeting " 1]
+    [true "have a standup meeting " 2]
+    [false "having a standup meeting" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk have a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de573fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at this hour.\n</p>\n\n",
+   :options
+   [[true "is teaching the class " 0]
+    [false "teaches the class " 1]
+    [false "teaching the class" 2]
+    [false "are teaching the class " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de583fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ right now.\n</p>\n\n",
+   :options
+   [[false "plays badminton " 0]
+    [true "is playing badminton " 1]
+    [false "playing badminton" 2]
+    [false "are playing badminton " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de593fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "playing badminton" 0]
+    [false "are playing badminton " 1]
+    [false "plays badminton " 2]
+    [true "is playing badminton " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de5a3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "watch movie " 0]
+    [false "is watching movie " 1]
+    [true "watches movie " 2]
+    [false "watchs movie" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk watches movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de5b3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "am watching movie " 0]
+    [false "watching movie" 1]
+    [true "watch movie " 2]
+    [false "watches movie " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk watch movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de5c3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every morning.\n</p>\n\n",
+   :options
+   [[false "having a standup meeting" 0]
+    [true "has a standup meeting " 1]
+    [false "have a standup meeting " 2]
+    [false "is having a standup meeting " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk has a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de5d3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every morning.\n</p>\n\n",
+   :options
+   [[true "plays badminton " 0]
+    [false "play badminton " 1]
+    [false "playing badminton" 2]
+    [false "is playing badminton " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk plays badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de5e3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every morning.\n</p>\n\n",
+   :options
+   [[true "play badminton " 0]
+    [false "plays badminton " 1]
+    [false "am playing badminton " 2]
+    [false "playing badminton" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk play badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de5f3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "has a standup meeting " 0]
+    [false "having a standup meeting" 1]
+    [false "am having a standup meeting " 2]
+    [true "have a standup meeting " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk have a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de603fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "watches movie " 0]
+    [false "are watching movie" 1]
+    [false "watching movie " 2]
+    [true "is watching movie " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de613fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "are teaching the class " 0]
+    [false "teaches the class " 1]
+    [false "teaching the class" 2]
+    [true "is teaching the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de623fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "plays badminton " 0]
+    [true "play badminton " 1]
+    [false "am playing badminton " 2]
+    [false "playing badminton" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk play badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de633fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "is teaching the class" 0]
+    [false "teach the class " 1]
+    [true "teaches the class " 2]
+    [false "teachs the class " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk teaches the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de643fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "is playing badminton " 0]
+    [false "play badminton " 1]
+    [true "am playing badminton " 2]
+    [false "playing badminton" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de653fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "having a standup meeting" 0]
+    [true "am having a standup meeting " 1]
+    [false "is having a standup meeting " 2]
+    [false "have a standup meeting " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de663fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "is teaching the class" 0]
+    [false "teachs the class " 1]
+    [false "teach the class " 2]
+    [true "teaches the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk teaches the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de673fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "playing badminton" 0]
+    [false "are playing badminton " 1]
+    [true "is playing badminton " 2]
+    [false "plays badminton " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de683fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "am teaching the class" 0]
+    [true "teach the class " 1]
+    [false "teachs the class " 2]
+    [false "teaches the class " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk teach the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de693fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at this hour.\n</p>\n\n",
+   :options
+   [[true "is teaching the class " 0]
+    [false "are teaching the class " 1]
+    [false "teaching the class" 2]
+    [false "teaches the class " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de6a3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[true "teach the class " 0]
+    [false "am teaching the class" 1]
+    [false "teachs the class " 2]
+    [false "teaches the class " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk teach the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de6b3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ now.\n</p>\n\n",
+   :options
+   [[false "watch movie " 0]
+    [false "is watching movie " 1]
+    [true "am watching movie " 2]
+    [false "watching movie" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de6c3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "am having a standup meeting " 0]
+    [false "having a standup meeting" 1]
+    [true "have a standup meeting " 2]
+    [false "has a standup meeting " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk have a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de6d3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every Friday.\n</p>\n\n",
+   :options
+   [[true "teaches the class " 0]
+    [false "teach the class " 1]
+    [false "is teaching the class" 2]
+    [false "teachs the class " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk teaches the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de6e3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ now.\n</p>\n\n",
+   :options
+   [[false "playing badminton" 0]
+    [false "plays badminton " 1]
+    [true "is playing badminton " 2]
+    [false "are playing badminton " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de6f3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[true "has a standup meeting " 0]
+    [false "is having a standup meeting " 1]
+    [false "have a standup meeting " 2]
+    [false "having a standup meeting" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk has a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de703fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "has a standup meeting " 0]
+    [false "having a standup meeting" 1]
+    [false "are having a standup meeting " 2]
+    [true "is having a standup meeting " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de713fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ now.\n</p>\n\n",
+   :options
+   [[false "has a standup meeting " 0]
+    [true "is having a standup meeting " 1]
+    [false "are having a standup meeting " 2]
+    [false "having a standup meeting" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de723fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "is teaching the class" 0]
+    [false "teaches the class " 1]
+    [false "teach the class " 2]
+    [true "am teaching the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de733fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "play badminton " 0]
+    [false "playing badminton" 1]
+    [false "is playing badminton " 2]
+    [true "plays badminton " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk plays badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de743fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ right now.\n</p>\n\n",
+   :options
+   [[false "watching movie" 0]
+    [true "am watching movie " 1]
+    [false "is watching movie " 2]
+    [false "watch movie " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de753fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "have a standup meeting " 0]
+    [false "is having a standup meeting " 1]
+    [false "having a standup meeting" 2]
+    [true "has a standup meeting " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk has a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de763fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "am teaching the class" 0]
+    [false "teaches the class " 1]
+    [false "teachs the class " 2]
+    [true "teach the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk teach the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de773fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ now.\n</p>\n\n",
+   :options
+   [[true "am playing badminton " 0]
+    [false "play badminton " 1]
+    [false "playing badminton" 2]
+    [false "is playing badminton " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de783fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every morning.\n</p>\n\n",
+   :options
+   [[false "is watching movie " 0]
+    [true "watches movie " 1]
+    [false "watch movie " 2]
+    [false "watchs movie" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk watches movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de793fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "watches movie " 0]
+    [false "watching movie " 1]
+    [false "are watching movie" 2]
+    [true "is watching movie " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de7a3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at this hour.\n</p>\n\n",
+   :options
+   [[false "watching movie " 0]
+    [false "are watching movie" 1]
+    [false "watches movie " 2]
+    [true "is watching movie " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at this hour jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de7b3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every weekend.\n</p>\n\n",
+   :options
+   [[true "has a standup meeting " 0]
+    [false "having a standup meeting" 1]
+    [false "is having a standup meeting " 2]
+    [false "have a standup meeting " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk has a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de7c3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every morning.\n</p>\n\n",
+   :options
+   [[false "is having a standup meeting " 0]
+    [false "have a standup meeting " 1]
+    [false "having a standup meeting" 2]
+    [true "has a standup meeting " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk has a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de7d3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "is playing badminton " 0]
+    [false "play badminton " 1]
+    [false "playing badminton" 2]
+    [true "plays badminton " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk plays badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de7e3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "having a standup meeting" 0]
+    [true "has a standup meeting " 1]
+    [false "is having a standup meeting " 2]
+    [false "have a standup meeting " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk has a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de7f3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "watchs movie" 0]
+    [false "watch movie " 1]
+    [false "is watching movie " 2]
+    [true "watches movie " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk watches movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de803fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "watch movie " 0]
+    [true "am watching movie " 1]
+    [false "watching movie" 2]
+    [false "is watching movie " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk am watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de813fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[true "play badminton " 0]
+    [false "plays badminton " 1]
+    [false "playing badminton" 2]
+    [false "am playing badminton " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk play badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de823fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every morning.\n</p>\n\n",
+   :options
+   [[false "watch movie " 0]
+    [false "is watching movie " 1]
+    [true "watches movie " 2]
+    [false "watchs movie" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk watches movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de833fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "watchs movie" 0]
+    [true "watches movie " 1]
+    [false "watch movie " 2]
+    [false "is watching movie " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk watches movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de843fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "watching movie " 0]
+    [true "is watching movie " 1]
+    [false "are watching movie" 2]
+    [false "watches movie " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de853fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ now.\n</p>\n\n",
+   :options
+   [[false "has a standup meeting " 0]
+    [true "is having a standup meeting " 1]
+    [false "are having a standup meeting " 2]
+    [false "having a standup meeting" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de863fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  I _______ every morning.\n</p>\n\n",
+   :options
+   [[false "am teaching the class" 0]
+    [false "teaches the class " 1]
+    [false "teachs the class " 2]
+    [true "teach the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every morning jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, I ini kan kata ganti pertama tunggal,\n Jadi kita butuh bentuk teach the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de873fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "teaches the class " 0]
+    [false "teaching the class" 1]
+    [false "are teaching the class " 2]
+    [true "is teaching the class " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is teaching the class.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de883fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ right now.\n</p>\n\n",
+   :options
+   [[true "is watching movie " 0]
+    [false "watches movie " 1]
+    [false "watching movie " 2]
+    [false "are watching movie" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is watching movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de893fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ every Friday.\n</p>\n\n",
+   :options
+   [[false "having a standup meeting" 0]
+    [false "have a standup meeting " 1]
+    [false "is having a standup meeting " 2]
+    [true "has a standup meeting " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk has a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de8a3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every weekend.\n</p>\n\n",
+   :options
+   [[false "watch movie " 0]
+    [true "watches movie " 1]
+    [false "is watching movie " 2]
+    [false "watchs movie" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every weekend jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk watches movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de8b3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at the moment.\n</p>\n\n",
+   :options
+   [[false "are having a standup meeting " 0]
+    [false "having a standup meeting" 1]
+    [false "has a standup meeting " 2]
+    [true "is having a standup meeting " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at the moment jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is having a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de8c3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  She _______ right now.\n</p>\n\n",
+   :options
+   [[false "plays badminton " 0]
+    [true "is playing badminton " 1]
+    [false "playing badminton" 2]
+    [false "are playing badminton " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada right now jadi kita butuh present continous tense.\n Bentuk tense ini S + am/is/are + Ving, jadi jadi kita butuh bentuk ini.\n Terus, She ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk is playing badminton.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de8d3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ at 11 am everyday.\n</p>\n\n",
+   :options
+   [[false "having a standup meeting" 0]
+    [true "has a standup meeting " 1]
+    [false "is having a standup meeting " 2]
+    [false "have a standup meeting " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada at 11 am everyday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk has a standup meeting.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de8e3fd311eb922226635d7a8a5f"}
+ {:soal
+  {:soal-text "\n\n<p>\n  He _______ every Friday.\n</p>\n\n",
+   :options
+   [[true "watches movie " 0]
+    [false "watch movie " 1]
+    [false "watchs movie" 2]
+    [false "is watching movie " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n Berdasarkan clue yang ada every Friday jadi kita butuh simple present tense.\n Bentuk tense ini S + V1, jadi jadi kita butuh bentuk ini.\n Terus, He ini kan kata ganti ketiga tunggal,\n Jadi kita butuh bentuk watches movie.\n</p>",
+  :template-id "a6ff0e203fd111eb922226635d7a8a5f",
+  :level-id "a6ff35303fd111eb922226635d7a8a5f",
+  :topic :english,
+  :problem-id "0300de8f3fd311eb922226635d7a8a5f"}]

@@ -14,15 +14,22 @@
   :problem-map "Big map from template-id to list of problem-ids for that template"
   :problems "All problems keyed by problem-id")
 
-(def template
+(def Template
   {:template-id s/Str
    :edn-file    s/Str
    :topic       s/Str})
 
-(def templates
-  {:math    [template]
-   :english [template]
-   :logic   [template]})
+(def Templates
+  {:math    [Template]
+   :english [Template]
+   :logic   [Template]})
+
+(def SortedTemplate
+  {:template-id s/Str
+   :submission  s/Int
+   :right       s/Int
+   :wrong       s/Int
+   :called      s/Int})
 
 ;; Content schemas
 

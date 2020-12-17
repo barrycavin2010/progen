@@ -10,30 +10,31 @@
   component/Lifecycle
   (start [this]
     (println "Dbase component started")
-    (let [db (init-db)]))
+    (let [ref-sorted-templates (ref nil)]
+      (merge this
+             {:conn redis})))
   (stop [this] this))
 
 (defn make [db-config]
   (map->Dbase db-config))
 
+(defn set-cronjob
+  [conn db]
+  "First part is to re-sort the levels and store the new level into db"
+  (let [{:keys [math logic english campur]} (-> @(:content-stats db)
+                                                (get :sorted-templates))])
+  )
+
 (defn load-db
   "Load content data from existing db"
-  [{:keys [conn] :as dbase}]
+  [conn]
   {:template-ids (wcar conn (car/get :template-ids))
    :templates    (wcar conn (car/get :templates))
-   :problem-map (wcar conn (car/get :problem-map))
-   :problems (wcar conn (car/get :problems))})
+   :problem-map  (wcar conn (car/get :problem-map))
+   :problems     (wcar conn (car/get :problems))})
 
-(defn init-db
-  []
-  {:content       {:template-ids    []
-                   :templates       {:math    []
-                                     :logic   []
-                                     :english []}
-                   :problem-ids-map {}
-                   :problems        {}}
-   :content-stats (ref {:templates {:math    []
-                                    :logic   []
-                                    :english []}
-                        :problems  {}})})
+
+
+
+
 
